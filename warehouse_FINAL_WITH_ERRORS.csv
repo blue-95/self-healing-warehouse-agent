@@ -1,0 +1,1151 @@
+Product ID,Product Name,Category,Warehouse,Location,Quantity,Price,Supplier,Status,Last Restocked
+1102, gadget y ,ELECTRONICS,Warehouse 2,Aisle 1,300,9.99,Johnson Ltd,In Stock,
+1435, gadget y ,ELECTRONICS,Warehouse 2,Aisle 4,two hundred,19.99,"Fields, Stone and Miller",Out of Stock,
+1860, widget a ,CLOTHING,Warehouse 2,Aisle 3,100,19.99,Fowler-Bowers,In Stock,20/12/2022
+1270, gadget z ,TOYS,Warehouse 2,Aisle 4,50,49.99,"Myers, Jones and Velez",In Stock,20/12/2022
+1106, widget a ,FURNITURE,Warehouse 3,Aisle 3,two hundred,9.99,"Deleon, Greene and French",Out of Stock,25/04/2023
+1071, widget b ,CLOTHING,Warehouse 3,Aisle 5,300,,Holmes-Adkins,In Stock,20/12/2022
+1700, widget a ,CLOTHING,Warehouse 2,Aisle 2,two hundred,49.99,Gallegos Group,In Stock,20/12/2022
+1020, widget c ,CLOTHING,Warehouse 1,Aisle 5,two hundred,9.99,Robinson Inc,Out of Stock,20/12/2022
+1614, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,300,9.99,Hartman-Garner,Out of Stock,05/03/2023
+1121, widget b ,TOYS,Warehouse 1,Aisle 2,50,19.99,Smith-Myers,Out of Stock,20/12/2022
+1466, widget a ,CLOTHING,Warehouse 3,Aisle 1,,49.99,Brandt and Sons,In Stock,15/01/2023
+1214, gadget z ,FURNITURE,Warehouse 2,Aisle 1,50,9.99,"Smith, Smith and Merritt",Low Stock,15/01/2023
+1330, widget c ,TOYS,Warehouse 3,Aisle 4,150,9.99,Gray PLC,In Stock,25/04/2023
+1458, widget c ,FURNITURE,Warehouse 2,Aisle 3,300,49.99,Tucker-Palmer,Low Stock,05/03/2023
+1087, widget a ,TOYS,Warehouse 3,Aisle 3,50,,James Ltd,Out of Stock,15/01/2023
+1372, gadget y ,FURNITURE,Warehouse 2,Aisle 1,two hundred,49.99,"Mills, Fitzgerald and Williams",Low Stock,05/03/2023
+1099, widget a ,ELECTRONICS,Warehouse 2,Aisle 5,300,49.99,Sanders-Bradley,Out of Stock,05/03/2023
+1871, widget b ,CLOTHING,Warehouse 2,Aisle 2,100,,"Johnson, Mathis and Levine",Out of Stock,25/04/2023
+1663, widget a ,FURNITURE,Warehouse 2,Aisle 5,50,49.99,Thomas-Elliott,Low Stock,05/03/2023
+1130, widget c ,TOYS,Warehouse 1,Aisle 5,300,9.99,"Jones, Allen and Singh",Out of Stock,20/12/2022
+1661, widget a ,CLOTHING,Warehouse 2,Aisle 1,50,49.99,"Hunt, Acevedo and Cardenas",Low Stock,05/03/2023
+1308, gadget y ,CLOTHING,Warehouse 1,Aisle 1,300,,Johnson-Johnson,Out of Stock,25/04/2023
+1769, gadget z ,TOYS,Warehouse 1,Aisle 1,two hundred,29.99,Torres Group,In Stock,25/04/2023
+1343, gadget x ,FURNITURE,Warehouse 2,Aisle 4,100,49.99,Dennis-Lee,In Stock,25/04/2023
+1491, widget a ,ELECTRONICS,Warehouse 1,Aisle 5,100,19.99,"Meza, Walker and Davis",Out of Stock,15/01/2023
+1413, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,150,9.99,Ross LLC,Out of Stock,20/12/2022
+1805, gadget y ,FURNITURE,Warehouse 2,Aisle 2,300,9.99,Garrett and Sons,Low Stock,15/01/2023
+1385, gadget z ,CLOTHING,Warehouse 1,Aisle 4,50,19.99,Villegas-Ramos,In Stock,
+1191, widget c ,CLOTHING,Warehouse 2,Aisle 3,100,19.99,"Kramer, Elliott and Serrano",Low Stock,20/12/2022
+1955, gadget y ,CLOTHING,Warehouse 2,Aisle 5,100,49.99,Klein-Taylor,Out of Stock,05/03/2023
+1276, gadget y ,CLOTHING,Warehouse 2,Aisle 1,,19.99,"Smith, Sullivan and Mclaughlin",Out of Stock,25/04/2023
+1160, gadget y ,FURNITURE,Warehouse 1,Aisle 5,,29.99,"Robinson, Stewart and Hogan",Low Stock,
+1459, gadget y ,CLOTHING,Warehouse 3,Aisle 2,100,,"Willis, Smith and Gonzalez",Out of Stock,20/12/2022
+1313, widget b ,TOYS,Warehouse 3,Aisle 4,300,19.99,Wilson-Beck,In Stock,15/01/2023
+1021, widget b ,CLOTHING,Warehouse 1,Aisle 4,150,19.99,"Jones, Harris and Silva",Low Stock,25/04/2023
+1252, widget c ,ELECTRONICS,Warehouse 2,Aisle 2,100,29.99,"Garcia, May and Young",In Stock,15/01/2023
+1747, widget a ,CLOTHING,Warehouse 1,Aisle 3,two hundred,9.99,Davis LLC,In Stock,20/12/2022
+1856, gadget y ,FURNITURE,Warehouse 1,Aisle 3,50,9.99,Johnson Ltd,In Stock,20/12/2022
+1560, gadget z ,ELECTRONICS,Warehouse 1,Aisle 4,150,49.99,"Burns, Conley and Huynh",Low Stock,
+1474, widget a ,FURNITURE,Warehouse 2,Aisle 4,two hundred,29.99,Campbell-Carrillo,Out of Stock,05/03/2023
+1058, gadget z ,FURNITURE,Warehouse 1,Aisle 1,150,,"Brown, Evans and Reyes",In Stock,15/01/2023
+1510, widget a ,ELECTRONICS,Warehouse 2,Aisle 3,two hundred,,"Harmon, Bryant and Jones",In Stock,
+1681, widget c ,FURNITURE,Warehouse 1,Aisle 2,50,29.99,Cole-Nelson,In Stock,25/04/2023
+1475, gadget y ,FURNITURE,Warehouse 3,Aisle 3,50,,Williams-Nelson,Out of Stock,05/03/2023
+1699, gadget y ,CLOTHING,Warehouse 1,Aisle 1,,9.99,Herrera and Sons,Out of Stock,
+1975, gadget x ,TOYS,Warehouse 1,Aisle 4,300,,"Moore, Nelson and Lee",Low Stock,15/01/2023
+1782, gadget z ,FURNITURE,Warehouse 3,Aisle 4,two hundred,,"Ferguson, Cooper and Cisneros",Out of Stock,20/12/2022
+1189, widget a ,FURNITURE,Warehouse 2,Aisle 1,,29.99,"Cole, Snyder and Larsen",Low Stock,25/04/2023
+1957, widget a ,FURNITURE,Warehouse 2,Aisle 2,two hundred,29.99,Shelton-Allen,Low Stock,15/01/2023
+1686, widget b ,CLOTHING,Warehouse 1,Aisle 4,,,"Snyder, Bennett and Reyes",Low Stock,05/03/2023
+1957, gadget x ,TOYS,Warehouse 3,Aisle 5,50,19.99,"Griffin, Bryant and Davis",Low Stock,05/03/2023
+1562, widget b ,ELECTRONICS,Warehouse 2,Aisle 4,150,29.99,Thompson-Thompson,Low Stock,20/12/2022
+1875, widget b ,CLOTHING,Warehouse 1,Aisle 5,,49.99,Howard and Sons,In Stock,20/12/2022
+1566, widget b ,CLOTHING,Warehouse 3,Aisle 1,two hundred,49.99,Peterson Inc,Out of Stock,25/04/2023
+1243, gadget z ,TOYS,Warehouse 2,Aisle 1,two hundred,9.99,"Mcfarland, Rojas and Vasquez",In Stock,25/04/2023
+1831, gadget z ,TOYS,Warehouse 2,Aisle 4,300,,Ortega-Rose,Low Stock,20/12/2022
+1504, widget c ,CLOTHING,Warehouse 3,Aisle 3,50,19.99,"Weaver, Cruz and Hall",Out of Stock,20/12/2022
+1130, widget c ,ELECTRONICS,Warehouse 3,Aisle 5,two hundred,9.99,"Gonzales, Porter and Smith",In Stock,05/03/2023
+1484, widget b ,CLOTHING,Warehouse 3,Aisle 2,100,,Arellano-Massey,In Stock,20/12/2022
+1818, gadget x ,TOYS,Warehouse 3,Aisle 4,150,29.99,Woods LLC,Low Stock,
+1646, widget a ,ELECTRONICS,Warehouse 1,Aisle 2,,49.99,Collins-Thompson,In Stock,15/01/2023
+1020, gadget z ,TOYS,Warehouse 3,Aisle 4,300,19.99,Price-Zimmerman,In Stock,20/12/2022
+1840, gadget x ,ELECTRONICS,Warehouse 2,Aisle 3,150,49.99,"Middleton, Johnson and Newton",In Stock,25/04/2023
+1166, gadget y ,FURNITURE,Warehouse 2,Aisle 3,50,29.99,"Smith, Rodgers and Dodson",In Stock,
+1273, gadget z ,TOYS,Warehouse 1,Aisle 3,300,,Brady Group,In Stock,25/04/2023
+1387, gadget z ,TOYS,Warehouse 2,Aisle 3,,29.99,Cook-Jacobson,Low Stock,
+1600, widget c ,CLOTHING,Warehouse 2,Aisle 1,,29.99,Brown-Hernandez,Low Stock,20/12/2022
+1315, widget a ,TOYS,Warehouse 3,Aisle 1,100,49.99,"Stewart, Jones and Kramer",In Stock,15/01/2023
+1013, widget a ,TOYS,Warehouse 2,Aisle 5,50,19.99,"Smith, Hamilton and Mccormick",Low Stock,25/04/2023
+1241, gadget y ,FURNITURE,Warehouse 1,Aisle 2,300,29.99,"Johnson, Michael and Nguyen",Low Stock,
+1776, gadget y ,TOYS,Warehouse 3,Aisle 4,300,49.99,Moses Inc,Out of Stock,05/03/2023
+1345, gadget z ,FURNITURE,Warehouse 3,Aisle 4,two hundred,19.99,"Davis, Bell and Hart",In Stock,20/12/2022
+1564, widget b ,FURNITURE,Warehouse 1,Aisle 1,100,,"Ward, Fox and Ramos",Low Stock,15/01/2023
+1897, widget c ,FURNITURE,Warehouse 3,Aisle 4,100,,"Abbott, Arroyo and Mills",Low Stock,20/12/2022
+1339, widget c ,FURNITURE,Warehouse 3,Aisle 1,300,9.99,Martinez and Sons,In Stock,05/03/2023
+1091, gadget z ,ELECTRONICS,Warehouse 1,Aisle 5,300,49.99,"Gray, Palmer and Brown",Out of Stock,15/01/2023
+1366, gadget x ,CLOTHING,Warehouse 3,Aisle 2,150,19.99,Cruz-Lewis,In Stock,05/03/2023
+1955, widget b ,ELECTRONICS,Warehouse 1,Aisle 5,150,29.99,"Leon, Copeland and Watkins",Out of Stock,20/12/2022
+1454, gadget z ,TOYS,Warehouse 1,Aisle 3,150,,"Buckley, Harris and Alvarado",In Stock,
+1427, widget b ,ELECTRONICS,Warehouse 2,Aisle 3,100,19.99,Stewart-Camacho,In Stock,20/12/2022
+1508, widget b ,ELECTRONICS,Warehouse 2,Aisle 3,two hundred,49.99,Jones-Coleman,In Stock,20/12/2022
+1775, widget b ,TOYS,Warehouse 3,Aisle 5,,9.99,Nguyen and Sons,In Stock,20/12/2022
+1942, gadget z ,TOYS,Warehouse 3,Aisle 4,150,,Schaefer PLC,Out of Stock,25/04/2023
+1034, widget c ,TOYS,Warehouse 1,Aisle 2,two hundred,19.99,Mccall-Garcia,Out of Stock,05/03/2023
+1205, widget c ,ELECTRONICS,Warehouse 3,Aisle 3,50,19.99,Ellis-Manning,Low Stock,05/03/2023
+1080, widget b ,ELECTRONICS,Warehouse 1,Aisle 3,150,19.99,Owens PLC,In Stock,05/03/2023
+1931, gadget x ,TOYS,Warehouse 1,Aisle 3,,49.99,"Wagner, Lang and Diaz",Out of Stock,25/04/2023
+1561, widget a ,CLOTHING,Warehouse 3,Aisle 2,50,49.99,Johnston Ltd,Out of Stock,
+1871, gadget z ,CLOTHING,Warehouse 1,Aisle 3,50,49.99,Nelson LLC,Out of Stock,20/12/2022
+1387, widget a ,FURNITURE,Warehouse 2,Aisle 2,,29.99,Alexander Group,In Stock,
+1001, gadget x ,TOYS,Warehouse 3,Aisle 3,150,19.99,Alexander PLC,Low Stock,25/04/2023
+1389, gadget z ,FURNITURE,Warehouse 2,Aisle 5,100,,Edwards LLC,Out of Stock,05/03/2023
+1565, widget b ,CLOTHING,Warehouse 3,Aisle 5,,49.99,Monroe-Morris,In Stock,20/12/2022
+1105, widget c ,FURNITURE,Warehouse 1,Aisle 2,,49.99,Potter-Aguilar,Out of Stock,15/01/2023
+1771, widget a ,TOYS,Warehouse 3,Aisle 5,,19.99,Holmes-Strong,Out of Stock,15/01/2023
+1821, gadget y ,TOYS,Warehouse 2,Aisle 2,50,49.99,"Mcknight, Flores and Myers",Low Stock,
+1476, gadget y ,TOYS,Warehouse 1,Aisle 5,two hundred,29.99,Miles-Morales,Out of Stock,05/03/2023
+1702, gadget x ,ELECTRONICS,Warehouse 3,Aisle 5,100,29.99,Cole LLC,Out of Stock,15/01/2023
+1401, widget b ,FURNITURE,Warehouse 3,Aisle 2,150,49.99,"Anderson, Collins and Carpenter",In Stock,
+1729, widget a ,CLOTHING,Warehouse 3,Aisle 4,150,19.99,"Shelton, Sims and Wilson",In Stock,25/04/2023
+1555, widget b ,CLOTHING,Warehouse 2,Aisle 5,two hundred,19.99,Ramirez Group,Low Stock,
+1161, widget a ,CLOTHING,Warehouse 2,Aisle 3,,19.99,Haynes Ltd,In Stock,
+1201, gadget x ,ELECTRONICS,Warehouse 3,Aisle 4,100,9.99,Allen PLC,In Stock,
+1957, gadget x ,ELECTRONICS,Warehouse 1,Aisle 2,150,49.99,Miller-Smith,Low Stock,20/12/2022
+1995, gadget y ,TOYS,Warehouse 1,Aisle 4,300,19.99,"Martinez, Conner and Mcfarland",Out of Stock,
+1269, widget b ,CLOTHING,Warehouse 2,Aisle 1,150,29.99,Johnson PLC,Low Stock,
+1862, gadget z ,ELECTRONICS,Warehouse 1,Aisle 1,,,Pennington-Clark,In Stock,20/12/2022
+1815, gadget y ,TOYS,Warehouse 2,Aisle 5,300,,Hale-Banks,Low Stock,20/12/2022
+1270, widget b ,CLOTHING,Warehouse 3,Aisle 5,two hundred,19.99,Barrett Ltd,Out of Stock,25/04/2023
+1455, gadget y ,FURNITURE,Warehouse 2,Aisle 3,100,,Williams-Weeks,Low Stock,05/03/2023
+1461, gadget z ,TOYS,Warehouse 2,Aisle 4,two hundred,,Hernandez LLC,In Stock,15/01/2023
+1726, widget c ,ELECTRONICS,Warehouse 3,Aisle 1,two hundred,9.99,Hayes-Ramirez,In Stock,15/01/2023
+1251, widget c ,ELECTRONICS,Warehouse 1,Aisle 5,100,29.99,"Phillips, Williams and Miller",Low Stock,
+1701, widget c ,TOYS,Warehouse 2,Aisle 4,100,29.99,Cortez LLC,Out of Stock,25/04/2023
+1295, widget c ,TOYS,Warehouse 2,Aisle 5,150,9.99,"Williams, Smith and Jenkins",Low Stock,
+1724, widget a ,ELECTRONICS,Warehouse 3,Aisle 5,150,9.99,Coleman PLC,Out of Stock,15/01/2023
+1719, widget c ,FURNITURE,Warehouse 1,Aisle 1,100,,Gaines-Clark,Out of Stock,20/12/2022
+1748, gadget z ,CLOTHING,Warehouse 2,Aisle 1,300,49.99,Martin and Sons,Low Stock,05/03/2023
+1337, gadget x ,FURNITURE,Warehouse 3,Aisle 5,50,,Adams PLC,Out of Stock,25/04/2023
+1878, gadget x ,TOYS,Warehouse 2,Aisle 2,150,9.99,Turner-Wagner,In Stock,20/12/2022
+1052, widget a ,FURNITURE,Warehouse 3,Aisle 5,50,29.99,Frost-Baker,Low Stock,05/03/2023
+1791, widget c ,ELECTRONICS,Warehouse 1,Aisle 5,300,,Wilson-Williams,Out of Stock,25/04/2023
+1921, widget c ,TOYS,Warehouse 1,Aisle 3,100,49.99,"Martin, Li and Harris",In Stock,25/04/2023
+1216, widget c ,CLOTHING,Warehouse 1,Aisle 3,300,,Hamilton-Smith,Low Stock,15/01/2023
+1763, gadget y ,ELECTRONICS,Warehouse 1,Aisle 3,150,19.99,Yu LLC,In Stock,20/12/2022
+1187, widget b ,ELECTRONICS,Warehouse 2,Aisle 2,two hundred,,"Nelson, Bell and Adams",In Stock,25/04/2023
+1379, gadget y ,CLOTHING,Warehouse 2,Aisle 2,100,9.99,Williams LLC,In Stock,25/04/2023
+1492, widget b ,CLOTHING,Warehouse 1,Aisle 5,,29.99,"Norris, Espinoza and Harris",Out of Stock,05/03/2023
+1040, widget c ,FURNITURE,Warehouse 1,Aisle 3,50,29.99,Gomez LLC,Low Stock,15/01/2023
+1156, widget c ,TOYS,Warehouse 1,Aisle 2,300,9.99,"Rice, Bass and Thompson",Low Stock,
+1014, gadget y ,CLOTHING,Warehouse 2,Aisle 1,100,19.99,Walters Ltd,Out of Stock,15/01/2023
+1812, gadget y ,CLOTHING,Warehouse 1,Aisle 5,300,9.99,Ramos-Chandler,Low Stock,
+1064, widget b ,TOYS,Warehouse 1,Aisle 4,100,,Johnson-Brock,In Stock,20/12/2022
+1856, gadget x ,CLOTHING,Warehouse 1,Aisle 5,150,9.99,Burns-Anderson,Low Stock,20/12/2022
+1838, widget b ,CLOTHING,Warehouse 3,Aisle 4,150,9.99,Rocha LLC,Out of Stock,25/04/2023
+1520, gadget y ,FURNITURE,Warehouse 1,Aisle 3,150,19.99,Rios-Roberts,In Stock,20/12/2022
+1343, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,300,,Washington Inc,Out of Stock,25/04/2023
+1128, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,,49.99,Taylor and Sons,In Stock,15/01/2023
+1647, gadget z ,ELECTRONICS,Warehouse 1,Aisle 1,150,49.99,Payne-Romero,In Stock,20/12/2022
+1471, widget a ,ELECTRONICS,Warehouse 3,Aisle 4,100,29.99,Nelson-Tapia,Low Stock,15/01/2023
+1062, gadget y ,CLOTHING,Warehouse 1,Aisle 5,150,9.99,"Keith, Smith and Odonnell",In Stock,15/01/2023
+1138, widget a ,TOYS,Warehouse 2,Aisle 3,two hundred,29.99,"Savage, Patrick and Torres",Out of Stock,20/12/2022
+1498, gadget x ,TOYS,Warehouse 2,Aisle 5,150,19.99,"Perkins, Church and Johnson",Low Stock,15/01/2023
+1592, widget b ,FURNITURE,Warehouse 2,Aisle 2,300,49.99,Harris-Perez,Out of Stock,20/12/2022
+1391, gadget z ,FURNITURE,Warehouse 2,Aisle 3,,9.99,Jones PLC,In Stock,20/12/2022
+1674, widget b ,CLOTHING,Warehouse 3,Aisle 4,two hundred,19.99,"Harmon, Henry and Cole",Out of Stock,20/12/2022
+1418, widget a ,TOYS,Warehouse 1,Aisle 3,300,19.99,Oneill-Adkins,Out of Stock,
+1288, gadget z ,TOYS,Warehouse 1,Aisle 5,300,9.99,Adams-Pratt,In Stock,15/01/2023
+1378, widget b ,ELECTRONICS,Warehouse 1,Aisle 1,300,19.99,Mullen Group,Low Stock,05/03/2023
+1772, gadget y ,CLOTHING,Warehouse 2,Aisle 3,100,9.99,Cooper Ltd,Out of Stock,20/12/2022
+1489, widget c ,CLOTHING,Warehouse 2,Aisle 4,300,9.99,"Munoz, Bowen and Williams",In Stock,15/01/2023
+1230, widget a ,ELECTRONICS,Warehouse 1,Aisle 2,100,,Terrell Group,Low Stock,25/04/2023
+1040, widget b ,CLOTHING,Warehouse 2,Aisle 1,300,29.99,Hill-Dickson,Low Stock,20/12/2022
+1027, widget a ,CLOTHING,Warehouse 1,Aisle 2,50,19.99,"Kirby, Daniel and Roth",Low Stock,20/12/2022
+1134, widget a ,FURNITURE,Warehouse 1,Aisle 3,two hundred,19.99,"Williams, Olsen and Hess",Out of Stock,05/03/2023
+1200, gadget z ,TOYS,Warehouse 1,Aisle 5,50,,Garza-Miller,Out of Stock,
+1839, gadget z ,CLOTHING,Warehouse 1,Aisle 5,300,,Kelley-Anderson,Out of Stock,
+1779, widget c ,FURNITURE,Warehouse 1,Aisle 4,two hundred,,"King, Nelson and Carr",Low Stock,20/12/2022
+1929, gadget y ,TOYS,Warehouse 1,Aisle 5,two hundred,49.99,Porter-Good,Out of Stock,15/01/2023
+1032, widget a ,ELECTRONICS,Warehouse 1,Aisle 1,,49.99,"Franco, Morgan and Bates",In Stock,25/04/2023
+1047, widget b ,FURNITURE,Warehouse 2,Aisle 5,50,49.99,"Dawson, Harding and Williams",Out of Stock,25/04/2023
+1502, gadget x ,FURNITURE,Warehouse 1,Aisle 4,,9.99,"Leonard, Nunez and Barker",Out of Stock,15/01/2023
+1406, widget a ,TOYS,Warehouse 1,Aisle 3,two hundred,19.99,"Rangel, Blake and Maynard",Low Stock,20/12/2022
+1573, widget a ,ELECTRONICS,Warehouse 2,Aisle 3,100,29.99,Moore and Sons,Out of Stock,25/04/2023
+1727, widget c ,FURNITURE,Warehouse 2,Aisle 5,two hundred,9.99,Francis Group,In Stock,
+1804, gadget y ,CLOTHING,Warehouse 2,Aisle 2,,19.99,"King, Rice and Williams",Low Stock,15/01/2023
+1098, gadget x ,CLOTHING,Warehouse 1,Aisle 3,50,19.99,Riggs and Sons,In Stock,05/03/2023
+1683, gadget z ,CLOTHING,Warehouse 3,Aisle 5,300,,"Reed, Wright and Garcia",Low Stock,20/12/2022
+1871, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,300,,"Whitney, Francis and Shea",Low Stock,15/01/2023
+1725, widget b ,FURNITURE,Warehouse 2,Aisle 5,50,9.99,"Johnson, Sandoval and Carter",Out of Stock,25/04/2023
+1986, gadget x ,CLOTHING,Warehouse 3,Aisle 3,300,,Pacheco Group,In Stock,20/12/2022
+1546, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,300,19.99,"Brown, Williams and Hamilton",Low Stock,
+1960, widget b ,CLOTHING,Warehouse 1,Aisle 5,,,Smith and Sons,Out of Stock,20/12/2022
+1738, gadget y ,TOYS,Warehouse 3,Aisle 1,50,49.99,Calhoun Inc,Low Stock,20/12/2022
+1612, widget b ,FURNITURE,Warehouse 1,Aisle 4,150,,"Johnson, Allen and Rowe",Low Stock,
+1942, gadget z ,FURNITURE,Warehouse 3,Aisle 1,100,19.99,"Schroeder, Serrano and Baldwin",Low Stock,
+1461, widget c ,ELECTRONICS,Warehouse 1,Aisle 2,100,9.99,"Sanders, Hess and Ford",Low Stock,20/12/2022
+1642, widget c ,ELECTRONICS,Warehouse 3,Aisle 4,300,29.99,Kane LLC,Low Stock,
+1768, widget c ,FURNITURE,Warehouse 1,Aisle 1,100,,"Carpenter, Graham and Aguilar",Low Stock,15/01/2023
+1004, gadget z ,CLOTHING,Warehouse 1,Aisle 3,50,19.99,Carter Inc,Out of Stock,
+1217, widget c ,CLOTHING,Warehouse 3,Aisle 3,50,29.99,Phillips Group,Low Stock,
+1502, gadget x ,TOYS,Warehouse 1,Aisle 2,two hundred,29.99,Rodriguez-Macias,In Stock,20/12/2022
+1766, gadget y ,CLOTHING,Warehouse 1,Aisle 4,two hundred,49.99,Thomas-Payne,Out of Stock,15/01/2023
+1397, widget b ,ELECTRONICS,Warehouse 1,Aisle 4,100,29.99,Crawford PLC,In Stock,05/03/2023
+1870, widget b ,ELECTRONICS,Warehouse 3,Aisle 4,150,19.99,Dawson-Myers,Low Stock,05/03/2023
+1794, gadget z ,CLOTHING,Warehouse 3,Aisle 2,two hundred,19.99,"Cortez, Sanders and Rosales",In Stock,25/04/2023
+1392, widget c ,ELECTRONICS,Warehouse 1,Aisle 4,two hundred,,"Johnson, Bailey and Vincent",Low Stock,
+1206, widget c ,FURNITURE,Warehouse 1,Aisle 3,50,,"Benson, Mullins and Ayers",Low Stock,
+1014, widget a ,FURNITURE,Warehouse 3,Aisle 1,150,,Moore Ltd,Out of Stock,15/01/2023
+1857, gadget y ,CLOTHING,Warehouse 3,Aisle 3,300,29.99,Osborne-Vaughn,Out of Stock,05/03/2023
+1553, gadget x ,FURNITURE,Warehouse 1,Aisle 3,100,29.99,Nelson-Vazquez,Low Stock,25/04/2023
+1891, widget b ,FURNITURE,Warehouse 1,Aisle 1,two hundred,49.99,"Hernandez, Ford and Rogers",Out of Stock,15/01/2023
+1460, widget a ,TOYS,Warehouse 1,Aisle 3,150,,"Taylor, Herrera and Davis",In Stock,
+1690, widget a ,TOYS,Warehouse 2,Aisle 2,150,9.99,Johnson-Clark,Out of Stock,05/03/2023
+1574, gadget z ,FURNITURE,Warehouse 3,Aisle 1,100,49.99,"Morris, Schwartz and Moreno",Out of Stock,25/04/2023
+1863, widget b ,CLOTHING,Warehouse 2,Aisle 3,150,9.99,Jones LLC,In Stock,20/12/2022
+1742, gadget z ,TOYS,Warehouse 3,Aisle 5,150,29.99,Petty PLC,Out of Stock,05/03/2023
+1240, gadget x ,ELECTRONICS,Warehouse 3,Aisle 3,150,49.99,Levy-Young,Low Stock,25/04/2023
+1563, widget a ,ELECTRONICS,Warehouse 3,Aisle 2,two hundred,49.99,Johnson-Stewart,In Stock,15/01/2023
+1095, widget a ,ELECTRONICS,Warehouse 3,Aisle 4,100,19.99,Ward-Ramirez,Low Stock,20/12/2022
+1899, gadget y ,CLOTHING,Warehouse 3,Aisle 3,150,29.99,Conley Ltd,In Stock,25/04/2023
+1733, gadget x ,FURNITURE,Warehouse 3,Aisle 4,150,29.99,Love-Mcbride,Low Stock,25/04/2023
+1484, widget a ,ELECTRONICS,Warehouse 3,Aisle 5,two hundred,49.99,"Moss, Delgado and Barber",Low Stock,
+1406, gadget x ,CLOTHING,Warehouse 2,Aisle 3,100,29.99,Hoffman Ltd,Out of Stock,05/03/2023
+1230, widget b ,TOYS,Warehouse 1,Aisle 1,50,49.99,"Hill, Martinez and Wagner",Low Stock,
+1748, widget c ,FURNITURE,Warehouse 1,Aisle 4,two hundred,19.99,"Morris, Stewart and Henderson",Out of Stock,20/12/2022
+1654, widget a ,TOYS,Warehouse 2,Aisle 5,100,49.99,Garcia PLC,In Stock,25/04/2023
+1170, gadget y ,CLOTHING,Warehouse 2,Aisle 1,150,29.99,"Hurst, Harris and Rivera",Low Stock,
+1540, widget b ,ELECTRONICS,Warehouse 2,Aisle 1,100,29.99,"Garcia, Hutchinson and Duffy",Low Stock,05/03/2023
+1035, gadget x ,ELECTRONICS,Warehouse 2,Aisle 1,100,49.99,"Foster, Martinez and Whitaker",In Stock,20/12/2022
+1524, gadget z ,CLOTHING,Warehouse 3,Aisle 1,300,49.99,Kelly-Hernandez,In Stock,15/01/2023
+1159, widget b ,ELECTRONICS,Warehouse 1,Aisle 3,100,49.99,Hayden-Jacobs,Low Stock,
+1838, widget a ,FURNITURE,Warehouse 3,Aisle 3,50,,Cohen-Thompson,In Stock,20/12/2022
+1698, gadget x ,CLOTHING,Warehouse 1,Aisle 3,100,29.99,"Turner, Thomas and Cannon",Out of Stock,15/01/2023
+1242, widget c ,TOYS,Warehouse 1,Aisle 5,50,29.99,"Taylor, Thompson and Hall",In Stock,
+1085, widget b ,CLOTHING,Warehouse 2,Aisle 5,150,,"Perez, Silva and Lewis",In Stock,20/12/2022
+1795, widget a ,FURNITURE,Warehouse 3,Aisle 5,50,49.99,Riley-Grimes,Low Stock,20/12/2022
+1577, gadget y ,FURNITURE,Warehouse 2,Aisle 2,150,19.99,"Smith, Barajas and Thomas",Out of Stock,
+1681, gadget z ,CLOTHING,Warehouse 3,Aisle 5,150,49.99,Daniels LLC,In Stock,20/12/2022
+1556, gadget x ,CLOTHING,Warehouse 1,Aisle 3,50,49.99,Soto Ltd,Out of Stock,25/04/2023
+1573, widget b ,ELECTRONICS,Warehouse 2,Aisle 3,two hundred,,Russell Ltd,Out of Stock,
+1952, widget b ,FURNITURE,Warehouse 2,Aisle 2,,29.99,Francis and Sons,Out of Stock,20/12/2022
+1645, widget c ,CLOTHING,Warehouse 1,Aisle 2,100,49.99,Fields Ltd,Low Stock,15/01/2023
+1795, widget c ,CLOTHING,Warehouse 1,Aisle 5,300,29.99,Reed Group,In Stock,15/01/2023
+1027, gadget y ,FURNITURE,Warehouse 1,Aisle 4,,9.99,"Smith, Lopez and Smith",Low Stock,25/04/2023
+1619, gadget z ,CLOTHING,Warehouse 2,Aisle 2,100,29.99,Ruiz Ltd,In Stock,
+1555, gadget y ,ELECTRONICS,Warehouse 3,Aisle 1,100,19.99,Larsen-Patel,In Stock,20/12/2022
+1339, widget a ,FURNITURE,Warehouse 2,Aisle 3,150,19.99,Drake Ltd,Low Stock,20/12/2022
+1797, widget a ,ELECTRONICS,Warehouse 3,Aisle 1,100,49.99,"Vang, Turner and Whitney",Out of Stock,15/01/2023
+1957, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,300,29.99,Williams-Davis,Out of Stock,25/04/2023
+1330, gadget z ,ELECTRONICS,Warehouse 2,Aisle 3,100,49.99,Brown Inc,In Stock,15/01/2023
+1639, gadget y ,ELECTRONICS,Warehouse 1,Aisle 2,50,,"Cook, Butler and Johnson",Low Stock,15/01/2023
+1505, gadget z ,FURNITURE,Warehouse 3,Aisle 2,,19.99,Nichols-Rivera,Out of Stock,25/04/2023
+1347, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,50,49.99,Mills-Martinez,Out of Stock,
+1472, gadget x ,ELECTRONICS,Warehouse 2,Aisle 3,300,,"Baldwin, Short and Martin",In Stock,20/12/2022
+1230, gadget z ,CLOTHING,Warehouse 1,Aisle 1,100,49.99,Brown Inc,In Stock,
+1189, widget c ,FURNITURE,Warehouse 1,Aisle 4,300,29.99,"Torres, Mcknight and Bender",Low Stock,05/03/2023
+1224, gadget z ,FURNITURE,Warehouse 3,Aisle 1,150,29.99,"Foster, Mejia and Hughes",In Stock,05/03/2023
+1384, gadget z ,TOYS,Warehouse 2,Aisle 5,50,29.99,Rojas-Jimenez,Out of Stock,05/03/2023
+1376, gadget z ,FURNITURE,Warehouse 3,Aisle 1,50,29.99,Wiggins-Odonnell,Out of Stock,25/04/2023
+1282, widget a ,FURNITURE,Warehouse 2,Aisle 5,two hundred,9.99,Levine PLC,Out of Stock,15/01/2023
+1957, widget c ,TOYS,Warehouse 3,Aisle 5,100,,"Wolf, Schroeder and Gutierrez",Out of Stock,
+1632, widget c ,FURNITURE,Warehouse 1,Aisle 5,150,,"Martinez, Baldwin and Long",Low Stock,20/12/2022
+1627, gadget y ,FURNITURE,Warehouse 2,Aisle 4,50,29.99,Williams Ltd,Low Stock,05/03/2023
+1972, gadget x ,FURNITURE,Warehouse 3,Aisle 1,50,9.99,Carrillo Ltd,In Stock,
+1744, gadget z ,FURNITURE,Warehouse 1,Aisle 1,150,29.99,"Sanders, Jones and Butler",In Stock,05/03/2023
+1258, widget b ,TOYS,Warehouse 1,Aisle 4,300,9.99,Montgomery-Reynolds,In Stock,05/03/2023
+1358, gadget x ,FURNITURE,Warehouse 3,Aisle 3,300,29.99,"Johnston, Parker and Williams",Low Stock,20/12/2022
+1709, gadget x ,FURNITURE,Warehouse 2,Aisle 2,100,19.99,Watson LLC,Out of Stock,25/04/2023
+1455, widget c ,TOYS,Warehouse 2,Aisle 1,two hundred,19.99,"Mcknight, Hartman and Reeves",In Stock,15/01/2023
+1410, gadget x ,CLOTHING,Warehouse 1,Aisle 2,50,49.99,Wilson-Rosales,Out of Stock,25/04/2023
+1648, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,two hundred,29.99,Pena-Palmer,In Stock,
+1317, gadget z ,CLOTHING,Warehouse 2,Aisle 3,300,,Watkins-Spencer,In Stock,25/04/2023
+1676, widget a ,TOYS,Warehouse 2,Aisle 3,300,49.99,Schwartz Group,In Stock,
+1224, gadget z ,ELECTRONICS,Warehouse 1,Aisle 3,,19.99,Riley Inc,In Stock,
+1818, gadget z ,TOYS,Warehouse 3,Aisle 4,100,29.99,Waters PLC,In Stock,15/01/2023
+1233, widget c ,TOYS,Warehouse 2,Aisle 5,,49.99,Washington-Tate,Out of Stock,20/12/2022
+1683, gadget z ,FURNITURE,Warehouse 1,Aisle 5,,29.99,Martinez-Young,In Stock,15/01/2023
+1663, widget a ,ELECTRONICS,Warehouse 1,Aisle 2,,19.99,"Hawkins, Blevins and Rivas",Out of Stock,25/04/2023
+1974, widget b ,FURNITURE,Warehouse 3,Aisle 5,100,49.99,Griffin and Sons,Low Stock,
+1826, widget c ,ELECTRONICS,Warehouse 2,Aisle 5,100,19.99,Stuart-Ruiz,In Stock,05/03/2023
+1373, widget b ,TOYS,Warehouse 2,Aisle 3,150,9.99,Tran-Jackson,Out of Stock,05/03/2023
+1671, widget c ,TOYS,Warehouse 3,Aisle 3,two hundred,19.99,Hansen-Fowler,Low Stock,
+1607, gadget y ,CLOTHING,Warehouse 3,Aisle 2,two hundred,29.99,Brooks-Pham,Low Stock,15/01/2023
+1471, gadget x ,ELECTRONICS,Warehouse 1,Aisle 1,150,,Miranda-Cole,Low Stock,20/12/2022
+1232, gadget y ,FURNITURE,Warehouse 1,Aisle 2,150,19.99,"Reynolds, Santiago and Martinez",Out of Stock,15/01/2023
+1691, gadget z ,CLOTHING,Warehouse 3,Aisle 2,300,,Wheeler and Sons,In Stock,
+1112, widget b ,CLOTHING,Warehouse 2,Aisle 4,,9.99,Baird Ltd,In Stock,
+1829, gadget z ,CLOTHING,Warehouse 1,Aisle 4,150,49.99,Vaughan and Sons,Out of Stock,20/12/2022
+1496, gadget x ,FURNITURE,Warehouse 1,Aisle 2,50,49.99,Ramos-Mccormick,In Stock,25/04/2023
+1441, widget c ,CLOTHING,Warehouse 2,Aisle 2,two hundred,,Kelley Group,Out of Stock,25/04/2023
+1563, gadget x ,FURNITURE,Warehouse 1,Aisle 2,150,49.99,Reynolds Group,In Stock,20/12/2022
+1267, widget a ,CLOTHING,Warehouse 2,Aisle 5,50,19.99,Warren PLC,Low Stock,25/04/2023
+1509, gadget x ,FURNITURE,Warehouse 2,Aisle 4,50,,Spence LLC,In Stock,05/03/2023
+1806, widget a ,TOYS,Warehouse 2,Aisle 2,50,29.99,Chapman LLC,Out of Stock,25/04/2023
+1385, gadget x ,TOYS,Warehouse 3,Aisle 3,300,19.99,"Shaw, Wilson and Pratt",Out of Stock,25/04/2023
+1386, widget a ,TOYS,Warehouse 3,Aisle 3,300,19.99,Gonzales PLC,Low Stock,25/04/2023
+1112, widget b ,TOYS,Warehouse 3,Aisle 5,50,19.99,Bowen Group,Out of Stock,05/03/2023
+1612, gadget z ,TOYS,Warehouse 2,Aisle 5,300,29.99,Allen-Collins,In Stock,25/04/2023
+1624, gadget z ,CLOTHING,Warehouse 2,Aisle 1,,9.99,Archer PLC,In Stock,05/03/2023
+1951, gadget y ,CLOTHING,Warehouse 3,Aisle 1,50,49.99,"Brown, Sanchez and Donovan",Low Stock,20/12/2022
+1080, gadget z ,CLOTHING,Warehouse 1,Aisle 1,,,Dominguez LLC,Out of Stock,15/01/2023
+1698, widget c ,FURNITURE,Warehouse 2,Aisle 5,,9.99,Short Inc,Low Stock,20/12/2022
+1112, gadget x ,FURNITURE,Warehouse 1,Aisle 5,50,,"Hobbs, Gomez and Roberts",In Stock,15/01/2023
+1001, gadget y ,FURNITURE,Warehouse 1,Aisle 5,two hundred,49.99,"Payne, Johnson and Cohen",Low Stock,20/12/2022
+1641, widget c ,FURNITURE,Warehouse 2,Aisle 3,50,29.99,"Campbell, Salazar and Ortega",Out of Stock,15/01/2023
+1219, widget c ,TOYS,Warehouse 2,Aisle 5,50,19.99,Summers-Sanchez,Low Stock,15/01/2023
+1565, widget a ,TOYS,Warehouse 1,Aisle 3,300,19.99,Schultz and Sons,Out of Stock,
+1854, gadget z ,TOYS,Warehouse 1,Aisle 1,50,29.99,"Hicks, Gutierrez and Campbell",Out of Stock,15/01/2023
+1996, widget b ,ELECTRONICS,Warehouse 3,Aisle 1,two hundred,9.99,"Campbell, Adams and Payne",In Stock,15/01/2023
+1735, widget b ,CLOTHING,Warehouse 3,Aisle 1,300,9.99,Benjamin-Reeves,In Stock,
+1224, gadget y ,FURNITURE,Warehouse 2,Aisle 2,100,,Webster and Sons,In Stock,25/04/2023
+1384, widget b ,FURNITURE,Warehouse 3,Aisle 2,100,29.99,Davis PLC,Out of Stock,25/04/2023
+1402, gadget x ,TOYS,Warehouse 3,Aisle 4,,9.99,"Peterson, Bartlett and Jackson",Low Stock,
+1637, widget b ,FURNITURE,Warehouse 3,Aisle 4,,29.99,Rodriguez-Carson,Out of Stock,05/03/2023
+1129, gadget y ,FURNITURE,Warehouse 3,Aisle 4,two hundred,49.99,Hines-Benitez,In Stock,15/01/2023
+1052, widget b ,CLOTHING,Warehouse 1,Aisle 2,150,19.99,Beasley-Lamb,In Stock,15/01/2023
+1683, gadget x ,TOYS,Warehouse 2,Aisle 2,100,19.99,Kaufman PLC,Low Stock,
+1729, widget a ,CLOTHING,Warehouse 3,Aisle 4,,19.99,"Brady, Velasquez and Thompson",In Stock,
+1671, gadget y ,ELECTRONICS,Warehouse 1,Aisle 4,100,29.99,Yu-Peters,In Stock,05/03/2023
+1709, widget a ,ELECTRONICS,Warehouse 1,Aisle 5,two hundred,29.99,Ramos-Anthony,In Stock,25/04/2023
+1415, widget a ,ELECTRONICS,Warehouse 1,Aisle 4,two hundred,,Daniel Group,Low Stock,20/12/2022
+1246, widget a ,TOYS,Warehouse 3,Aisle 5,150,19.99,"Johnson, Weber and Robbins",Out of Stock,25/04/2023
+1835, widget c ,FURNITURE,Warehouse 3,Aisle 3,150,,Miller Group,In Stock,15/01/2023
+1438, gadget z ,TOYS,Warehouse 2,Aisle 2,300,19.99,Willis-Meza,Low Stock,
+1202, widget c ,TOYS,Warehouse 3,Aisle 4,two hundred,,"Richard, Luna and Dennis",In Stock,05/03/2023
+1183, gadget z ,FURNITURE,Warehouse 3,Aisle 2,,,Hernandez-Green,Low Stock,25/04/2023
+1122, widget a ,CLOTHING,Warehouse 1,Aisle 2,100,49.99,Patrick-Hill,In Stock,05/03/2023
+1400, gadget y ,ELECTRONICS,Warehouse 2,Aisle 2,50,,"Eaton, Burns and Ochoa",Low Stock,25/04/2023
+1766, gadget z ,CLOTHING,Warehouse 3,Aisle 3,150,29.99,Young PLC,In Stock,15/01/2023
+1293, gadget x ,ELECTRONICS,Warehouse 3,Aisle 1,50,,"Ross, Browning and Castaneda",Out of Stock,20/12/2022
+1279, gadget x ,TOYS,Warehouse 1,Aisle 4,,19.99,"Coleman, Washington and Tate",In Stock,05/03/2023
+1836, widget b ,ELECTRONICS,Warehouse 1,Aisle 1,150,,"Valentine, Stevens and Mclaughlin",Low Stock,05/03/2023
+1883, gadget z ,TOYS,Warehouse 3,Aisle 1,50,9.99,Moore Inc,In Stock,20/12/2022
+1609, gadget y ,CLOTHING,Warehouse 2,Aisle 1,,19.99,"Fischer, Oconnor and Brown",Out of Stock,05/03/2023
+1197, widget c ,TOYS,Warehouse 2,Aisle 2,100,9.99,"Garcia, Hancock and Miranda",In Stock,05/03/2023
+1981, widget a ,CLOTHING,Warehouse 1,Aisle 5,,19.99,Olson-Bowman,Low Stock,25/04/2023
+1906, widget b ,FURNITURE,Warehouse 1,Aisle 2,300,29.99,Cobb LLC,Low Stock,25/04/2023
+1510, gadget x ,FURNITURE,Warehouse 3,Aisle 2,150,29.99,"Thompson, Lane and Harrison",Out of Stock,20/12/2022
+1751, widget c ,FURNITURE,Warehouse 1,Aisle 1,two hundred,29.99,Stephens Ltd,Low Stock,15/01/2023
+1143, widget c ,TOYS,Warehouse 3,Aisle 2,100,9.99,Roy-Mendoza,In Stock,05/03/2023
+1608, widget a ,FURNITURE,Warehouse 2,Aisle 1,50,49.99,"Byrd, Horn and Sims",In Stock,15/01/2023
+1200, gadget z ,ELECTRONICS,Warehouse 2,Aisle 5,150,19.99,Vargas Group,In Stock,20/12/2022
+1123, gadget x ,CLOTHING,Warehouse 3,Aisle 4,two hundred,29.99,Ayala and Sons,Low Stock,20/12/2022
+1186, gadget y ,CLOTHING,Warehouse 1,Aisle 1,,19.99,Collins Inc,In Stock,25/04/2023
+1325, widget c ,ELECTRONICS,Warehouse 2,Aisle 5,two hundred,9.99,Holt and Sons,In Stock,05/03/2023
+1463, widget a ,TOYS,Warehouse 1,Aisle 4,150,49.99,"Stewart, Wyatt and Smith",In Stock,
+1348, gadget y ,TOYS,Warehouse 2,Aisle 3,150,9.99,Lawson-Arnold,Out of Stock,20/12/2022
+1770, gadget z ,CLOTHING,Warehouse 3,Aisle 1,300,19.99,"Klein, Pratt and Tucker",Low Stock,05/03/2023
+1659, gadget x ,FURNITURE,Warehouse 3,Aisle 1,300,49.99,Thomas and Sons,Low Stock,15/01/2023
+1763, gadget z ,TOYS,Warehouse 3,Aisle 3,two hundred,49.99,Jackson-Sawyer,Low Stock,25/04/2023
+1954, widget c ,TOYS,Warehouse 2,Aisle 3,,9.99,Kennedy-Clark,Out of Stock,15/01/2023
+1931, gadget y ,ELECTRONICS,Warehouse 1,Aisle 1,two hundred,29.99,Arnold-Boyer,Low Stock,20/12/2022
+1402, gadget y ,ELECTRONICS,Warehouse 1,Aisle 3,150,19.99,Young-Daniels,Out of Stock,20/12/2022
+1345, gadget y ,FURNITURE,Warehouse 1,Aisle 2,150,,Nelson Inc,Out of Stock,15/01/2023
+1962, widget c ,TOYS,Warehouse 2,Aisle 4,50,,Sutton Ltd,Low Stock,20/12/2022
+1510, widget c ,TOYS,Warehouse 2,Aisle 4,300,9.99,Torres-Padilla,In Stock,05/03/2023
+1146, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,50,19.99,"Bennett, Spears and Calhoun",In Stock,20/12/2022
+1147, widget b ,TOYS,Warehouse 2,Aisle 2,100,19.99,Smith-Schmidt,Low Stock,25/04/2023
+1863, gadget z ,CLOTHING,Warehouse 2,Aisle 3,150,9.99,Jackson-Lopez,Low Stock,05/03/2023
+1710, gadget x ,ELECTRONICS,Warehouse 1,Aisle 5,50,19.99,"Wilson, Barry and Obrien",Out of Stock,
+1819, widget a ,FURNITURE,Warehouse 2,Aisle 3,two hundred,29.99,Clarke-Douglas,Low Stock,20/12/2022
+1488, gadget y ,ELECTRONICS,Warehouse 2,Aisle 1,300,9.99,Lang Ltd,Out of Stock,20/12/2022
+1928, widget b ,TOYS,Warehouse 1,Aisle 4,300,29.99,Middleton-Hamilton,Low Stock,25/04/2023
+1935, widget a ,FURNITURE,Warehouse 2,Aisle 3,,19.99,"Young, Fritz and Smith",In Stock,25/04/2023
+1639, widget b ,ELECTRONICS,Warehouse 1,Aisle 5,two hundred,9.99,"Mckenzie, Williams and Bass",In Stock,15/01/2023
+1550, gadget z ,CLOTHING,Warehouse 1,Aisle 1,,19.99,Skinner and Sons,Low Stock,15/01/2023
+1337, widget c ,CLOTHING,Warehouse 3,Aisle 2,50,9.99,"Williams, Orozco and Hill",Out of Stock,15/01/2023
+1871, gadget y ,ELECTRONICS,Warehouse 3,Aisle 2,100,19.99,Crane Group,In Stock,25/04/2023
+1640, gadget z ,CLOTHING,Warehouse 3,Aisle 5,two hundred,29.99,Jones-Long,Out of Stock,15/01/2023
+1778, widget a ,CLOTHING,Warehouse 3,Aisle 1,two hundred,29.99,Huynh Inc,Low Stock,15/01/2023
+1987, widget a ,CLOTHING,Warehouse 2,Aisle 4,two hundred,19.99,"Tyler, Mercado and Andrews",Low Stock,
+1952, widget a ,FURNITURE,Warehouse 3,Aisle 3,,9.99,"Gonzales, Lee and Hunt",In Stock,15/01/2023
+1472, widget a ,CLOTHING,Warehouse 1,Aisle 1,50,,Gray Ltd,Low Stock,20/12/2022
+1945, widget a ,CLOTHING,Warehouse 2,Aisle 2,two hundred,29.99,"Taylor, Fitzgerald and Brown",In Stock,25/04/2023
+1150, widget b ,CLOTHING,Warehouse 3,Aisle 5,two hundred,29.99,"Barker, Clay and Garcia",Out of Stock,05/03/2023
+1414, gadget z ,FURNITURE,Warehouse 1,Aisle 5,300,,"Brown, Gallegos and Carney",In Stock,
+1989, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,100,19.99,Archer-Ferguson,In Stock,25/04/2023
+1297, widget c ,TOYS,Warehouse 2,Aisle 5,300,9.99,Baird-Bailey,Out of Stock,25/04/2023
+1610, widget c ,CLOTHING,Warehouse 3,Aisle 5,300,19.99,"Cox, Lewis and Lewis",In Stock,20/12/2022
+1262, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,100,49.99,Brown-Schwartz,In Stock,15/01/2023
+1763, gadget z ,CLOTHING,Warehouse 1,Aisle 4,50,29.99,"Sosa, Burns and James",Low Stock,20/12/2022
+1143, widget c ,FURNITURE,Warehouse 2,Aisle 3,300,49.99,"Ross, Richards and Guerrero",Out of Stock,15/01/2023
+1345, widget c ,ELECTRONICS,Warehouse 1,Aisle 1,50,29.99,"Smith, Underwood and Hernandez",In Stock,15/01/2023
+1623, widget b ,FURNITURE,Warehouse 2,Aisle 4,300,29.99,"Day, Jordan and Owens",Out of Stock,25/04/2023
+1571, gadget x ,CLOTHING,Warehouse 3,Aisle 1,150,49.99,Mckinney-Matthews,Out of Stock,15/01/2023
+1880, gadget y ,CLOTHING,Warehouse 1,Aisle 1,100,49.99,Riley-Pham,In Stock,
+1001, widget a ,FURNITURE,Warehouse 2,Aisle 5,300,19.99,"Hunter, Dyer and Allen",Low Stock,
+1896, gadget x ,TOYS,Warehouse 2,Aisle 4,150,49.99,Lopez Group,Out of Stock,
+1303, gadget z ,FURNITURE,Warehouse 2,Aisle 3,,19.99,Hughes and Sons,In Stock,25/04/2023
+1253, widget c ,CLOTHING,Warehouse 1,Aisle 3,150,19.99,Higgins Inc,Out of Stock,20/12/2022
+1651, gadget x ,FURNITURE,Warehouse 1,Aisle 4,two hundred,19.99,Wilson-Benton,Low Stock,05/03/2023
+1452, gadget y ,TOYS,Warehouse 1,Aisle 5,300,29.99,Palmer LLC,Low Stock,15/01/2023
+1036, gadget z ,FURNITURE,Warehouse 3,Aisle 2,150,29.99,Morgan Ltd,Low Stock,05/03/2023
+1159, widget a ,TOYS,Warehouse 3,Aisle 1,50,49.99,Mejia Ltd,In Stock,20/12/2022
+1008, widget a ,TOYS,Warehouse 1,Aisle 5,,29.99,"Hughes, Mendoza and Gates",In Stock,20/12/2022
+1232, gadget y ,FURNITURE,Warehouse 2,Aisle 4,300,49.99,Johnson-Rose,Low Stock,25/04/2023
+1098, gadget y ,FURNITURE,Warehouse 3,Aisle 1,two hundred,29.99,"Frazier, Ray and Hobbs",In Stock,
+1658, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,150,9.99,"Walker, Simpson and Elliott",Low Stock,
+1815, widget a ,CLOTHING,Warehouse 2,Aisle 2,,9.99,Hale Ltd,In Stock,20/12/2022
+1207, gadget z ,TOYS,Warehouse 3,Aisle 3,300,49.99,Rush Inc,Low Stock,25/04/2023
+1130, gadget x ,ELECTRONICS,Warehouse 2,Aisle 4,,29.99,Orr PLC,Out of Stock,25/04/2023
+1403, gadget z ,FURNITURE,Warehouse 2,Aisle 1,two hundred,29.99,"Levine, Williams and Wilcox",Low Stock,15/01/2023
+1151, widget b ,CLOTHING,Warehouse 2,Aisle 4,150,19.99,Avila and Sons,Low Stock,
+1053, widget b ,ELECTRONICS,Warehouse 2,Aisle 1,,,Christensen-Brown,In Stock,20/12/2022
+1119, gadget y ,TOYS,Warehouse 3,Aisle 5,,49.99,"Olson, Wright and Greene",In Stock,05/03/2023
+1672, widget c ,ELECTRONICS,Warehouse 3,Aisle 2,100,,Diaz and Sons,In Stock,
+1919, widget b ,TOYS,Warehouse 3,Aisle 5,,,"Lawrence, Fischer and Smith",In Stock,15/01/2023
+1627, widget a ,FURNITURE,Warehouse 1,Aisle 5,100,49.99,"Carr, Mcdonald and Castillo",In Stock,25/04/2023
+1586, gadget z ,CLOTHING,Warehouse 3,Aisle 4,150,29.99,Wells-Fisher,In Stock,20/12/2022
+1624, gadget z ,CLOTHING,Warehouse 2,Aisle 2,300,49.99,Taylor-Andrews,Out of Stock,
+1967, gadget y ,CLOTHING,Warehouse 3,Aisle 1,300,,Martin PLC,Low Stock,05/03/2023
+1419, gadget x ,FURNITURE,Warehouse 2,Aisle 1,150,29.99,Ross-Owen,Low Stock,15/01/2023
+1421, gadget y ,TOYS,Warehouse 1,Aisle 3,150,9.99,"Thomas, Garcia and Mercado",Low Stock,15/01/2023
+1103, gadget x ,FURNITURE,Warehouse 2,Aisle 1,50,49.99,Warren-Livingston,Out of Stock,
+1851, gadget y ,CLOTHING,Warehouse 2,Aisle 4,150,49.99,Farmer LLC,Low Stock,05/03/2023
+1253, gadget y ,FURNITURE,Warehouse 2,Aisle 5,,29.99,Lawrence-Carpenter,Out of Stock,15/01/2023
+1226, gadget y ,FURNITURE,Warehouse 1,Aisle 5,300,9.99,Weaver Inc,Out of Stock,20/12/2022
+1111, gadget x ,FURNITURE,Warehouse 3,Aisle 5,-99,9.99,Hanson-Mahoney,Out of Stock,15/01/2023
+1509, gadget x ,TOYS,Warehouse 3,Aisle 2,300,29.99,Bell-Houston,Low Stock,05/03/2023
+1472, gadget y ,ELECTRONICS,Warehouse 1,Aisle 1,100,19.99,"Wells, Merritt and Harris",Out of Stock,25/04/2023
+1098, widget b ,ELECTRONICS,Warehouse 2,Aisle 4,300,49.99,Howard Inc,Low Stock,25/04/2023
+1152, widget c ,FURNITURE,Warehouse 3,Aisle 2,50,49.99,"Carson, Bailey and Shea",Low Stock,
+1860, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,150,,"Anthony, White and Miller",In Stock,05/03/2023
+1913, widget c ,ELECTRONICS,Warehouse 3,Aisle 4,150,29.99,Long Ltd,In Stock,15/01/2023
+1895, gadget x ,FURNITURE,Warehouse 1,Aisle 4,300,,"Campbell, Berry and Phillips",Out of Stock,15/01/2023
+1877, gadget x ,FURNITURE,Warehouse 2,Aisle 4,two hundred,,Gray-Nelson,Out of Stock,25/04/2023
+1337, widget b ,CLOTHING,Warehouse 3,Aisle 5,two hundred,9.99,"Kelley, Hernandez and Allen",Low Stock,25/04/2023
+1705, widget c ,ELECTRONICS,Warehouse 1,Aisle 4,50,49.99,Anderson-Adams,Out of Stock,20/12/2022
+1821, widget c ,TOYS,Warehouse 3,Aisle 1,100,,Mason-Mcintosh,Out of Stock,25/04/2023
+1162, gadget y ,FURNITURE,Warehouse 3,Aisle 4,300,9.99,Miller-Lopez,Low Stock,20/12/2022
+1719, gadget x ,CLOTHING,Warehouse 3,Aisle 5,150,29.99,"Jones, Hodge and Donovan",Out of Stock,15/01/2023
+1956, widget c ,TOYS,Warehouse 3,Aisle 4,300,,White and Sons,Out of Stock,20/12/2022
+1680, gadget z ,ELECTRONICS,Warehouse 1,Aisle 3,-99,49.99,"Sanders, Coleman and Cook",Low Stock,20/12/2022
+1995, widget b ,CLOTHING,Warehouse 2,Aisle 3,,,"Burton, Russell and Daniels",Low Stock,
+1160, gadget z ,FURNITURE,Warehouse 1,Aisle 5,,29.99,"Pitts, Brown and Hopkins",In Stock,25/04/2023
+1579, gadget z ,TOYS,Warehouse 1,Aisle 1,50,,Curtis LLC,Low Stock,20/12/2022
+1800, widget b ,FURNITURE,Warehouse 1,Aisle 1,150,49.99,Bowman-Yu,In Stock,15/01/2023
+1397, gadget z ,ELECTRONICS,Warehouse 2,Aisle 2,50,9.99,Johnson-Thomas,Out of Stock,05/03/2023
+1276, widget c ,TOYS,Warehouse 3,Aisle 5,150,49.99,Howard-Forbes,Low Stock,20/12/2022
+1815, gadget x ,ELECTRONICS,Warehouse 3,Aisle 4,two hundred,9.99,"Pearson, Marsh and Daniels",Low Stock,25/04/2023
+1915, widget b ,ELECTRONICS,Warehouse 3,Aisle 5,50,19.99,"Whitaker, Jackson and Kelly",Low Stock,
+1503, gadget y ,CLOTHING,Warehouse 2,Aisle 2,150,49.99,Clements-Glenn,Out of Stock,15/01/2023
+1895, gadget z ,FURNITURE,Warehouse 3,Aisle 5,50,49.99,Smith LLC,In Stock,
+1391, widget b ,TOYS,Warehouse 2,Aisle 5,50,29.99,Ray Ltd,Out of Stock,05/03/2023
+1134, widget a ,ELECTRONICS,Warehouse 3,Aisle 2,150,,"Thompson, Romero and Frazier",Out of Stock,20/12/2022
+1194, widget a ,ELECTRONICS,Warehouse 3,Aisle 1,150,9.99,"Thomas, Kirby and Hogan",Low Stock,20/12/2022
+1400, gadget x ,TOYS,Warehouse 1,Aisle 4,100,9.99,Hanson and Sons,In Stock,25/04/2023
+1639, widget c ,ELECTRONICS,Warehouse 2,Aisle 2,50,29.99,Young-Thomas,Out of Stock,20/12/2022
+1032, gadget x ,CLOTHING,Warehouse 1,Aisle 3,,29.99,Lynch and Sons,Low Stock,15/01/2023
+1687, gadget x ,CLOTHING,Warehouse 1,Aisle 1,50,,"Ryan, Gonzalez and Wilkins",Out of Stock,05/03/2023
+1459, gadget x ,CLOTHING,Warehouse 1,Aisle 3,50,,Marquez-Roy,Out of Stock,
+1954, gadget x ,CLOTHING,Warehouse 2,Aisle 1,150,49.99,Wilson PLC,Low Stock,05/03/2023
+1882, gadget y ,ELECTRONICS,Warehouse 2,Aisle 4,50,19.99,Harvey Ltd,Low Stock,20/12/2022
+1469, gadget y ,TOYS,Warehouse 3,Aisle 4,300,,Lynch Ltd,In Stock,
+1374, widget b ,TOYS,Warehouse 1,Aisle 5,50,29.99,Page Inc,Out of Stock,25/04/2023
+1021, widget a ,TOYS,Warehouse 3,Aisle 3,300,,"Taylor, Diaz and Henderson",Low Stock,05/03/2023
+1749, gadget x ,TOYS,Warehouse 1,Aisle 1,,9.99,"Shannon, Prince and Stewart",Low Stock,
+1669, widget b ,FURNITURE,Warehouse 2,Aisle 4,150,19.99,"Fowler, Arroyo and Bridges",In Stock,
+1037, widget a ,TOYS,Warehouse 2,Aisle 2,50,49.99,Molina and Sons,In Stock,
+1229, gadget z ,FURNITURE,Warehouse 2,Aisle 4,300,9.99,Holmes-Key,Low Stock,15/01/2023
+1364, widget c ,FURNITURE,Warehouse 1,Aisle 2,300,9.99,Miller Group,In Stock,05/03/2023
+1562, gadget y ,CLOTHING,Warehouse 2,Aisle 1,300,19.99,"Jones, Little and Chandler",Low Stock,
+1437, gadget z ,FURNITURE,Warehouse 1,Aisle 4,two hundred,49.99,Hunter-Gonzalez,Out of Stock,05/03/2023
+1775, widget a ,ELECTRONICS,Warehouse 3,Aisle 4,100,29.99,"Vazquez, Morrow and Rice",In Stock,
+1282, gadget z ,FURNITURE,Warehouse 1,Aisle 1,,49.99,Smith-Gates,Out of Stock,25/04/2023
+1026, widget c ,CLOTHING,Warehouse 3,Aisle 4,50,,Merritt Ltd,Out of Stock,25/04/2023
+1225, widget a ,FURNITURE,Warehouse 1,Aisle 2,two hundred,9.99,"Hill, Davis and Long",Out of Stock,25/04/2023
+1276, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,50,,Bradshaw Inc,Low Stock,20/12/2022
+1797, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,50,29.99,Griffin-Walters,Out of Stock,
+1608, gadget y ,ELECTRONICS,Warehouse 3,Aisle 5,150,,Fernandez-Brown,Out of Stock,20/12/2022
+1283, widget b ,CLOTHING,Warehouse 2,Aisle 2,150,49.99,Parker-Hill,Out of Stock,05/03/2023
+1878, gadget z ,CLOTHING,Warehouse 2,Aisle 3,150,,Burton Ltd,Low Stock,20/12/2022
+1959, gadget x ,TOYS,Warehouse 3,Aisle 1,two hundred,29.99,Fernandez Inc,Out of Stock,05/03/2023
+1480, gadget z ,CLOTHING,Warehouse 1,Aisle 2,50,29.99,Williams and Sons,Out of Stock,05/03/2023
+1452, widget a ,ELECTRONICS,Warehouse 1,Aisle 5,100,29.99,Reyes-Anderson,In Stock,05/03/2023
+1828, widget a ,ELECTRONICS,Warehouse 1,Aisle 5,,49.99,Evans and Sons,Low Stock,20/12/2022
+1815, gadget z ,CLOTHING,Warehouse 1,Aisle 1,150,29.99,"Clark, Thompson and Livingston",Out of Stock,
+1658, widget c ,FURNITURE,Warehouse 1,Aisle 1,150,9.99,Moreno-Christian,In Stock,20/12/2022
+1515, gadget y ,CLOTHING,Warehouse 2,Aisle 2,50,29.99,Mclaughlin LLC,Low Stock,
+1546, widget a ,CLOTHING,Warehouse 1,Aisle 4,50,,Martinez-Smith,Low Stock,
+1191, gadget y ,ELECTRONICS,Warehouse 2,Aisle 1,two hundred,,Walker-Weaver,Low Stock,05/03/2023
+1048, widget a ,TOYS,Warehouse 2,Aisle 4,two hundred,,Wright Group,Low Stock,20/12/2022
+1511, widget b ,ELECTRONICS,Warehouse 2,Aisle 3,150,49.99,"Murphy, Donovan and Carrillo",Low Stock,
+1016, gadget x ,TOYS,Warehouse 3,Aisle 5,50,,Price Ltd,Low Stock,25/04/2023
+1171, widget a ,ELECTRONICS,Warehouse 3,Aisle 4,100,49.99,"White, Townsend and Pearson",Out of Stock,
+1219, gadget y ,CLOTHING,Warehouse 2,Aisle 5,,49.99,Simmons PLC,Out of Stock,25/04/2023
+1157, widget b ,ELECTRONICS,Warehouse 3,Aisle 4,50,29.99,Lowe-Harris,Out of Stock,20/12/2022
+1476, widget a ,ELECTRONICS,Warehouse 1,Aisle 3,50,9.99,Barnes-Johnson,Out of Stock,20/12/2022
+1045, widget c ,ELECTRONICS,Warehouse 1,Aisle 1,300,29.99,"Gomez, Davis and Harris",In Stock,20/12/2022
+1372, gadget x ,CLOTHING,Warehouse 2,Aisle 3,-99,29.99,Williams Group,Out of Stock,
+1517, widget a ,CLOTHING,Warehouse 1,Aisle 1,,49.99,Anderson-Rogers,Low Stock,15/01/2023
+1098, widget b ,CLOTHING,Warehouse 2,Aisle 1,150,49.99,Elliott Ltd,Out of Stock,
+1891, widget c ,CLOTHING,Warehouse 2,Aisle 5,50,,Hess and Sons,Out of Stock,
+1744, gadget z ,TOYS,Warehouse 1,Aisle 3,150,,Hudson-Mccall,Low Stock,05/03/2023
+1036, widget b ,TOYS,Warehouse 3,Aisle 4,50,29.99,Garcia Group,Out of Stock,05/03/2023
+1279, widget b ,FURNITURE,Warehouse 1,Aisle 3,150,19.99,Rivers Ltd,Out of Stock,
+1348, widget c ,CLOTHING,Warehouse 1,Aisle 5,,19.99,Perez-Fischer,Out of Stock,25/04/2023
+1496, widget b ,TOYS,Warehouse 2,Aisle 1,two hundred,,Jenkins PLC,In Stock,05/03/2023
+1301, widget c ,ELECTRONICS,Warehouse 2,Aisle 5,,19.99,"Peck, Burch and Rodriguez",Out of Stock,
+1180, widget a ,CLOTHING,Warehouse 2,Aisle 2,300,,"Gomez, Tapia and Chandler",Low Stock,15/01/2023
+1606, widget c ,FURNITURE,Warehouse 2,Aisle 2,100,49.99,"Wright, Jones and Pierce",Low Stock,25/04/2023
+1098, widget c ,FURNITURE,Warehouse 3,Aisle 4,two hundred,29.99,Maldonado Group,Out of Stock,20/12/2022
+1699, gadget x ,FURNITURE,Warehouse 3,Aisle 5,,9.99,Medina Ltd,Out of Stock,
+1992, widget c ,ELECTRONICS,Warehouse 3,Aisle 4,300,29.99,Fisher-Fernandez,Out of Stock,
+1115, widget c ,TOYS,Warehouse 2,Aisle 4,100,,Jimenez-Johnson,Low Stock,25/04/2023
+1190, gadget z ,ELECTRONICS,Warehouse 2,Aisle 2,300,,Jennings-Ramirez,Low Stock,05/03/2023
+1252, widget a ,CLOTHING,Warehouse 2,Aisle 4,50,29.99,"Woodard, Bryant and Odonnell",In Stock,05/03/2023
+1980, gadget x ,FURNITURE,Warehouse 3,Aisle 2,50,,"Durham, Lucas and Roberts",In Stock,05/03/2023
+1927, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,150,19.99,Holmes-Haynes,In Stock,20/12/2022
+1982, gadget y ,ELECTRONICS,Warehouse 1,Aisle 5,two hundred,19.99,Jones-Mccarty,Low Stock,25/04/2023
+1160, widget a ,TOYS,Warehouse 1,Aisle 4,50,,Greer-Frederick,In Stock,25/04/2023
+1255, widget a ,TOYS,Warehouse 2,Aisle 2,300,,Krause Group,Out of Stock,05/03/2023
+1322, gadget y ,FURNITURE,Warehouse 1,Aisle 3,two hundred,19.99,"Brown, Howell and Perez",Out of Stock,05/03/2023
+1127, widget c ,ELECTRONICS,Warehouse 1,Aisle 4,50,,Gray-Chan,Low Stock,15/01/2023
+1017, gadget z ,ELECTRONICS,Warehouse 3,Aisle 1,150,,"Walton, Oliver and Collins",In Stock,15/01/2023
+1792, widget b ,TOYS,Warehouse 2,Aisle 1,,29.99,Garner Inc,Out of Stock,
+1734, gadget x ,ELECTRONICS,Warehouse 2,Aisle 3,150,9.99,Olson and Sons,Low Stock,
+1565, widget b ,ELECTRONICS,Warehouse 3,Aisle 2,100,19.99,Hall and Sons,In Stock,25/04/2023
+1569, gadget y ,ELECTRONICS,Warehouse 1,Aisle 4,50,29.99,Hicks and Sons,Out of Stock,25/04/2023
+1322, widget a ,TOYS,Warehouse 1,Aisle 2,100,9.99,Atkins-Barnett,In Stock,20/12/2022
+1871, widget a ,FURNITURE,Warehouse 2,Aisle 1,100,,"Hatfield, Duncan and Watson",Low Stock,20/12/2022
+1685, gadget x ,CLOTHING,Warehouse 1,Aisle 2,300,,"Brown, Richardson and Johnson",In Stock,15/01/2023
+1791, widget a ,FURNITURE,Warehouse 3,Aisle 1,two hundred,29.99,Berry-Johnson,Low Stock,
+1625, widget a ,CLOTHING,Warehouse 3,Aisle 2,300,,Hernandez-Saunders,In Stock,15/01/2023
+1287, gadget x ,ELECTRONICS,Warehouse 2,Aisle 3,50,49.99,Bell LLC,Out of Stock,15/01/2023
+1942, gadget z ,FURNITURE,Warehouse 3,Aisle 5,100,29.99,Ball-Turner,Low Stock,
+1853, gadget z ,CLOTHING,Warehouse 3,Aisle 3,,9.99,"Ingram, Jones and Parker",Low Stock,20/12/2022
+1662, gadget x ,TOYS,Warehouse 2,Aisle 3,100,29.99,Walters-Houston,Low Stock,
+1961, gadget y ,TOYS,Warehouse 3,Aisle 5,,19.99,Sullivan-Goodwin,In Stock,05/03/2023
+1638, widget a ,FURNITURE,Warehouse 3,Aisle 5,300,29.99,"Acosta, Alvarez and Barker",In Stock,05/03/2023
+1154, widget a ,FURNITURE,Warehouse 3,Aisle 4,300,,Gardner Inc,Out of Stock,05/03/2023
+1489, gadget y ,ELECTRONICS,Warehouse 1,Aisle 4,two hundred,,Griffin Inc,Low Stock,25/04/2023
+1385, gadget z ,FURNITURE,Warehouse 2,Aisle 3,100,49.99,Jones-Lee,Low Stock,20/12/2022
+1985, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,150,49.99,"Haney, Cox and Reyes",In Stock,20/12/2022
+1784, widget c ,ELECTRONICS,Warehouse 2,Aisle 1,300,49.99,"Sharp, Williams and Parker",In Stock,25/04/2023
+1103, widget c ,TOYS,Warehouse 1,Aisle 1,300,9.99,Howard-Newton,Out of Stock,15/01/2023
+1928, gadget z ,TOYS,Warehouse 1,Aisle 4,two hundred,49.99,"Stewart, Martin and Garcia",Out of Stock,05/03/2023
+1392, gadget z ,CLOTHING,Warehouse 2,Aisle 4,,9.99,Blankenship Inc,In Stock,05/03/2023
+1810, gadget y ,TOYS,Warehouse 1,Aisle 1,two hundred,49.99,Anderson Inc,Low Stock,15/01/2023
+1245, widget a ,TOYS,Warehouse 2,Aisle 1,100,9.99,"Ellis, Olsen and Morrison",Out of Stock,
+1175, gadget y ,FURNITURE,Warehouse 1,Aisle 2,50,29.99,"Hampton, Wolfe and Price",In Stock,
+1038, gadget y ,TOYS,Warehouse 3,Aisle 2,50,29.99,Wright-Williams,In Stock,20/12/2022
+1476, gadget z ,CLOTHING,Warehouse 3,Aisle 1,,,Hill LLC,Low Stock,25/04/2023
+1681, widget c ,FURNITURE,Warehouse 2,Aisle 2,300,9.99,"Hardy, Moore and Buchanan",In Stock,20/12/2022
+1758, widget b ,CLOTHING,Warehouse 1,Aisle 5,,19.99,Harris-Myers,In Stock,
+1537, widget a ,TOYS,Warehouse 1,Aisle 4,300,,"Mclaughlin, Harris and Allen",Out of Stock,15/01/2023
+1866, gadget z ,CLOTHING,Warehouse 3,Aisle 4,300,29.99,"Mclean, Johnson and Bradshaw",In Stock,20/12/2022
+1817, widget c ,FURNITURE,Warehouse 3,Aisle 1,50,9.99,"Williams, Mitchell and Alexander",In Stock,05/03/2023
+1920, widget b ,ELECTRONICS,Warehouse 1,Aisle 3,,49.99,Davidson PLC,Out of Stock,05/03/2023
+1407, widget b ,CLOTHING,Warehouse 1,Aisle 1,two hundred,19.99,Avila Ltd,Low Stock,15/01/2023
+1524, gadget z ,CLOTHING,Warehouse 1,Aisle 2,300,29.99,"Taylor, Mitchell and Diaz",Low Stock,
+1827, gadget x ,FURNITURE,Warehouse 1,Aisle 3,150,,Fowler Group,Out of Stock,05/03/2023
+1505, widget a ,FURNITURE,Warehouse 1,Aisle 2,150,9.99,"Shelton, Mcgee and Mills",Out of Stock,05/03/2023
+1902, widget b ,CLOTHING,Warehouse 1,Aisle 5,two hundred,19.99,Atkinson LLC,Low Stock,25/04/2023
+1824, gadget z ,TOYS,Warehouse 2,Aisle 2,150,9.99,"Lee, Johnson and Allen",Low Stock,20/12/2022
+1035, gadget z ,CLOTHING,Warehouse 1,Aisle 5,100,49.99,"Miller, Miller and Lopez",Low Stock,
+1684, widget c ,FURNITURE,Warehouse 3,Aisle 5,300,,Walls Group,Low Stock,20/12/2022
+1019, gadget x ,ELECTRONICS,Warehouse 2,Aisle 2,two hundred,9.99,Bennett-Allen,Low Stock,
+1320, widget a ,ELECTRONICS,Warehouse 1,Aisle 2,,29.99,Gardner-Chang,Out of Stock,05/03/2023
+1775, gadget y ,TOYS,Warehouse 3,Aisle 5,300,,Perez-Bell,In Stock,25/04/2023
+1511, widget c ,CLOTHING,Warehouse 2,Aisle 3,two hundred,29.99,Wallace Ltd,Low Stock,20/12/2022
+1399, widget b ,ELECTRONICS,Warehouse 3,Aisle 5,50,9.99,"Woods, May and Watson",Low Stock,05/03/2023
+1653, widget b ,CLOTHING,Warehouse 1,Aisle 4,,,Shaw-Dunlap,In Stock,
+1971, widget c ,FURNITURE,Warehouse 1,Aisle 5,50,29.99,Villegas Inc,In Stock,20/12/2022
+1882, gadget z ,ELECTRONICS,Warehouse 1,Aisle 3,300,49.99,Chambers-Wagner,In Stock,20/12/2022
+1470, widget b ,TOYS,Warehouse 1,Aisle 4,,49.99,"Woodard, Braun and Vincent",In Stock,05/03/2023
+1142, gadget x ,FURNITURE,Warehouse 2,Aisle 1,150,9.99,Coleman-Good,In Stock,20/12/2022
+1091, widget a ,TOYS,Warehouse 2,Aisle 1,two hundred,,"Hampton, Hutchinson and Cox",In Stock,25/04/2023
+1353, gadget x ,FURNITURE,Warehouse 3,Aisle 3,300,19.99,Carpenter-Anderson,Out of Stock,25/04/2023
+1833, widget b ,ELECTRONICS,Warehouse 1,Aisle 5,100,,Bowers-Hawkins,In Stock,05/03/2023
+1799, gadget y ,TOYS,Warehouse 3,Aisle 2,,49.99,Harris Ltd,In Stock,
+1726, widget a ,TOYS,Warehouse 2,Aisle 3,,29.99,"Rodriguez, Smith and Carpenter",Out of Stock,05/03/2023
+1958, widget a ,FURNITURE,Warehouse 1,Aisle 4,300,19.99,"Wallace, Maldonado and Jones",In Stock,25/04/2023
+1853, widget c ,TOYS,Warehouse 1,Aisle 4,300,9.99,Rice LLC,Low Stock,15/01/2023
+1050, widget c ,FURNITURE,Warehouse 2,Aisle 1,50,19.99,Hines-Flowers,Low Stock,15/01/2023
+1664, gadget y ,FURNITURE,Warehouse 2,Aisle 4,150,9.99,"Smith, Craig and Moore",In Stock,20/12/2022
+1697, gadget z ,FURNITURE,Warehouse 2,Aisle 3,50,19.99,Schroeder PLC,Out of Stock,20/12/2022
+1574, widget a ,FURNITURE,Warehouse 2,Aisle 4,50,9.99,"Evans, Mercer and Hodges",Low Stock,15/01/2023
+1189, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,150,9.99,Kidd-Johnson,Out of Stock,25/04/2023
+1124, widget c ,FURNITURE,Warehouse 1,Aisle 2,100,19.99,Flores Ltd,Low Stock,20/12/2022
+1149, widget c ,CLOTHING,Warehouse 2,Aisle 1,50,19.99,"Allen, Martin and Spencer",In Stock,05/03/2023
+1313, widget a ,TOYS,Warehouse 1,Aisle 4,50,9.99,Hansen LLC,Out of Stock,05/03/2023
+1569, gadget x ,CLOTHING,Warehouse 1,Aisle 3,,49.99,Garcia PLC,Out of Stock,25/04/2023
+1341, widget b ,ELECTRONICS,Warehouse 2,Aisle 5,150,19.99,Conner-Davis,Out of Stock,20/12/2022
+1304, widget c ,CLOTHING,Warehouse 2,Aisle 1,two hundred,,"Gibson, Garrett and Hunt",Low Stock,05/03/2023
+1691, gadget z ,TOYS,Warehouse 1,Aisle 2,100,29.99,Joseph-Maxwell,Low Stock,20/12/2022
+1681, gadget z ,CLOTHING,Warehouse 2,Aisle 3,100,9.99,"Myers, Smith and Larson",Low Stock,20/12/2022
+1837, widget c ,ELECTRONICS,Warehouse 2,Aisle 2,150,9.99,Nelson-Thompson,In Stock,05/03/2023
+1782, gadget x ,FURNITURE,Warehouse 2,Aisle 2,300,29.99,"Campbell, Moyer and Carey",Low Stock,15/01/2023
+1053, gadget x ,CLOTHING,Warehouse 3,Aisle 4,300,49.99,Norman-Thompson,In Stock,05/03/2023
+1443, gadget y ,ELECTRONICS,Warehouse 1,Aisle 4,,29.99,"Cruz, Butler and Patterson",Out of Stock,25/04/2023
+1612, gadget z ,ELECTRONICS,Warehouse 3,Aisle 3,,19.99,Reynolds Inc,Out of Stock,
+1992, gadget y ,TOYS,Warehouse 2,Aisle 5,150,29.99,Brandt-Frye,In Stock,05/03/2023
+1263, gadget z ,TOYS,Warehouse 3,Aisle 3,,9.99,"Wood, Mueller and Turner",Low Stock,20/12/2022
+1052, widget b ,CLOTHING,Warehouse 2,Aisle 5,100,29.99,"Johnson, Adams and Conrad",In Stock,20/12/2022
+1571, widget b ,FURNITURE,Warehouse 3,Aisle 2,100,,Park Ltd,Out of Stock,05/03/2023
+1619, widget a ,ELECTRONICS,Warehouse 2,Aisle 1,two hundred,19.99,Garrison LLC,Out of Stock,
+1004, gadget y ,CLOTHING,Warehouse 3,Aisle 3,300,29.99,"Robinson, Green and Maldonado",In Stock,05/03/2023
+1102, widget c ,ELECTRONICS,Warehouse 3,Aisle 3,150,9.99,Smith-Yang,Low Stock,
+1195, gadget y ,ELECTRONICS,Warehouse 3,Aisle 5,50,19.99,Johnson Inc,Low Stock,
+1773, widget c ,FURNITURE,Warehouse 1,Aisle 2,300,9.99,Drake Ltd,In Stock,25/04/2023
+1876, gadget x ,FURNITURE,Warehouse 3,Aisle 2,50,49.99,"Murphy, Campbell and Padilla",In Stock,20/12/2022
+1991, gadget y ,CLOTHING,Warehouse 1,Aisle 5,two hundred,,Moody Ltd,Low Stock,20/12/2022
+1883, gadget x ,FURNITURE,Warehouse 2,Aisle 2,two hundred,49.99,"Lambert, Rodriguez and Guzman",Out of Stock,
+1349, widget b ,FURNITURE,Warehouse 3,Aisle 4,,,Curry-Howard,In Stock,20/12/2022
+1046, widget b ,CLOTHING,Warehouse 2,Aisle 1,two hundred,29.99,Petty-Hughes,Low Stock,15/01/2023
+1866, widget a ,FURNITURE,Warehouse 2,Aisle 3,two hundred,19.99,Ochoa Ltd,Low Stock,
+1822, gadget y ,TOYS,Warehouse 3,Aisle 1,50,29.99,"Phillips, Morris and Brooks",Out of Stock,20/12/2022
+1935, gadget x ,ELECTRONICS,Warehouse 1,Aisle 3,,,Webb-Meadows,Out of Stock,15/01/2023
+1819, widget c ,ELECTRONICS,Warehouse 3,Aisle 4,two hundred,,"Haas, Pierce and Warner",Out of Stock,25/04/2023
+1655, widget b ,ELECTRONICS,Warehouse 2,Aisle 2,300,,Haas-Hampton,Out of Stock,20/12/2022
+1268, widget b ,ELECTRONICS,Warehouse 2,Aisle 5,two hundred,9.99,Rivers-Bradley,Out of Stock,15/01/2023
+1369, widget c ,CLOTHING,Warehouse 3,Aisle 4,,19.99,Steele Group,In Stock,05/03/2023
+1635, gadget x ,ELECTRONICS,Warehouse 1,Aisle 1,150,29.99,Mclean-Howell,Low Stock,05/03/2023
+1105, gadget x ,ELECTRONICS,Warehouse 1,Aisle 5,,29.99,"Rivas, Romero and Callahan",In Stock,15/01/2023
+1669, gadget y ,ELECTRONICS,Warehouse 2,Aisle 2,50,49.99,Norton-Steele,In Stock,
+1658, gadget y ,ELECTRONICS,Warehouse 2,Aisle 4,150,,"Patel, Davis and Thompson",In Stock,
+1656, gadget z ,TOYS,Warehouse 1,Aisle 5,300,,Olsen Group,In Stock,20/12/2022
+1119, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,100,,Delacruz and Sons,In Stock,05/03/2023
+1830, widget a ,TOYS,Warehouse 2,Aisle 4,,29.99,Navarro-Conrad,Out of Stock,
+1786, widget b ,CLOTHING,Warehouse 1,Aisle 2,50,49.99,"Ferguson, Christensen and Odonnell",Out of Stock,
+1603, gadget y ,FURNITURE,Warehouse 2,Aisle 3,300,9.99,Wilkinson and Sons,Low Stock,05/03/2023
+1057, gadget x ,ELECTRONICS,Warehouse 3,Aisle 5,150,19.99,Nichols-King,In Stock,25/04/2023
+1950, widget c ,FURNITURE,Warehouse 1,Aisle 2,300,9.99,"Brown, Melendez and Wilson",Low Stock,
+1345, gadget x ,FURNITURE,Warehouse 2,Aisle 4,,29.99,"Morrison, Phillips and Mccoy",Out of Stock,15/01/2023
+1740, widget b ,CLOTHING,Warehouse 3,Aisle 2,two hundred,,"Ashley, Wilson and Smith",Out of Stock,20/12/2022
+1473, gadget z ,FURNITURE,Warehouse 2,Aisle 3,,19.99,"Suarez, Miller and Joseph",Out of Stock,
+1116, gadget x ,TOYS,Warehouse 3,Aisle 5,100,29.99,"Hodges, Garcia and Johnson",In Stock,
+1829, widget a ,FURNITURE,Warehouse 3,Aisle 3,,29.99,Torres Inc,In Stock,25/04/2023
+1790, widget b ,FURNITURE,Warehouse 1,Aisle 1,150,29.99,"Johnson, Chandler and Martinez",Out of Stock,15/01/2023
+1126, gadget z ,FURNITURE,Warehouse 3,Aisle 5,150,19.99,"Gibson, Manning and Mcmahon",Low Stock,20/12/2022
+1392, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,,19.99,Smith-Berry,Low Stock,
+1907, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,150,49.99,Cortez Inc,Out of Stock,20/12/2022
+1640, widget a ,TOYS,Warehouse 3,Aisle 5,two hundred,49.99,Williams LLC,Low Stock,05/03/2023
+1057, widget b ,TOYS,Warehouse 1,Aisle 5,300,9.99,Castillo-Schmidt,Out of Stock,
+1633, widget c ,ELECTRONICS,Warehouse 3,Aisle 2,,19.99,Harrison-Moran,Low Stock,
+1512, widget a ,TOYS,Warehouse 3,Aisle 4,two hundred,19.99,"Jackson, Burns and Price",Out of Stock,05/03/2023
+1750, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,300,19.99,Reyes LLC,Low Stock,25/04/2023
+1801, widget a ,CLOTHING,Warehouse 1,Aisle 3,300,49.99,"Ortega, Barrera and Mitchell",In Stock,
+1095, widget b ,FURNITURE,Warehouse 1,Aisle 2,two hundred,29.99,Ramirez Group,Out of Stock,20/12/2022
+1637, gadget y ,FURNITURE,Warehouse 1,Aisle 3,50,,Dodson LLC,Out of Stock,15/01/2023
+1117, widget a ,TOYS,Warehouse 3,Aisle 1,,49.99,"Watkins, Hutchinson and Strickland",Low Stock,20/12/2022
+1559, widget a ,ELECTRONICS,Warehouse 1,Aisle 1,300,19.99,"Allen, Woodward and Jensen",Out of Stock,25/04/2023
+1600, gadget z ,ELECTRONICS,Warehouse 3,Aisle 5,300,49.99,Smith-Johnson,Out of Stock,15/01/2023
+1487, gadget z ,TOYS,Warehouse 3,Aisle 1,150,9.99,"Sherman, Hayes and Walker",Out of Stock,20/12/2022
+1236, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,300,19.99,Rodriguez-Wilson,In Stock,20/12/2022
+1884, gadget z ,CLOTHING,Warehouse 2,Aisle 4,two hundred,9.99,Trujillo Inc,In Stock,05/03/2023
+1896, gadget x ,FURNITURE,Warehouse 2,Aisle 4,300,19.99,Morgan Group,Low Stock,25/04/2023
+1271, widget b ,TOYS,Warehouse 2,Aisle 5,50,49.99,Conway-Brown,In Stock,05/03/2023
+1188, widget b ,TOYS,Warehouse 2,Aisle 3,,29.99,Banks-Ortiz,Low Stock,15/01/2023
+1998, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,,,Romero LLC,In Stock,05/03/2023
+1703, gadget y ,TOYS,Warehouse 3,Aisle 1,300,9.99,"Perez, Elliott and Flores",Low Stock,25/04/2023
+1446, widget b ,CLOTHING,Warehouse 1,Aisle 3,100,49.99,Murphy-Stephens,In Stock,
+1580, gadget y ,ELECTRONICS,Warehouse 3,Aisle 2,100,29.99,Finley and Sons,In Stock,
+1789, widget c ,ELECTRONICS,Warehouse 3,Aisle 1,two hundred,49.99,Carpenter and Sons,Low Stock,15/01/2023
+1860, gadget z ,ELECTRONICS,Warehouse 2,Aisle 2,100,9.99,"Martinez, Duncan and Barton",Out of Stock,
+1246, widget b ,ELECTRONICS,Warehouse 3,Aisle 5,two hundred,,Alexander-Peterson,Out of Stock,05/03/2023
+1962, gadget y ,CLOTHING,Warehouse 2,Aisle 4,150,49.99,Newman Group,In Stock,15/01/2023
+1075, widget b ,ELECTRONICS,Warehouse 1,Aisle 5,two hundred,19.99,Wilson Ltd,Low Stock,25/04/2023
+1153, gadget x ,TOYS,Warehouse 1,Aisle 4,100,29.99,Webster-Phelps,Out of Stock,15/01/2023
+1655, widget a ,CLOTHING,Warehouse 3,Aisle 5,300,49.99,Medina-Rodriguez,Low Stock,15/01/2023
+1434, gadget z ,FURNITURE,Warehouse 1,Aisle 3,150,29.99,"Bray, Cooley and Garza",Out of Stock,20/12/2022
+1996, widget b ,FURNITURE,Warehouse 3,Aisle 2,100,19.99,Bell and Sons,Low Stock,20/12/2022
+1085, widget a ,TOYS,Warehouse 1,Aisle 4,two hundred,,Fitzgerald-Pearson,In Stock,15/01/2023
+1696, gadget y ,TOYS,Warehouse 2,Aisle 1,50,,"Weaver, Wilson and Hayes",Low Stock,
+1284, widget a ,CLOTHING,Warehouse 2,Aisle 2,,19.99,"King, Galvan and Greer",Out of Stock,20/12/2022
+1973, gadget z ,FURNITURE,Warehouse 2,Aisle 1,100,29.99,"Jackson, Hale and White",In Stock,25/04/2023
+1219, widget b ,FURNITURE,Warehouse 2,Aisle 2,two hundred,49.99,Brady Group,Low Stock,05/03/2023
+1068, gadget x ,FURNITURE,Warehouse 3,Aisle 2,150,19.99,Schultz Ltd,Out of Stock,20/12/2022
+1046, gadget y ,FURNITURE,Warehouse 1,Aisle 5,100,9.99,"Poole, Holmes and Jennings",In Stock,15/01/2023
+1093, widget b ,FURNITURE,Warehouse 3,Aisle 4,100,29.99,Wagner Ltd,Low Stock,
+1749, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,,,"Smith, Richardson and Nichols",Out of Stock,05/03/2023
+1957, gadget y ,TOYS,Warehouse 3,Aisle 2,two hundred,19.99,Wood-Poole,Low Stock,20/12/2022
+1452, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,50,,Torres Ltd,Low Stock,
+1203, widget a ,FURNITURE,Warehouse 3,Aisle 3,150,29.99,Cohen and Sons,In Stock,
+1911, gadget z ,CLOTHING,Warehouse 1,Aisle 1,two hundred,,Alvarado-Turner,In Stock,
+1217, widget c ,CLOTHING,Warehouse 3,Aisle 1,150,19.99,"Zimmerman, Acosta and Strickland",Out of Stock,15/01/2023
+1473, widget b ,FURNITURE,Warehouse 1,Aisle 5,100,29.99,Kline Group,In Stock,25/04/2023
+1431, gadget x ,FURNITURE,Warehouse 1,Aisle 2,,9.99,Romero-Bowen,Out of Stock,
+1340, gadget y ,CLOTHING,Warehouse 2,Aisle 1,,19.99,Rodriguez Inc,Low Stock,05/03/2023
+1550, widget a ,ELECTRONICS,Warehouse 1,Aisle 1,300,49.99,Bowers Ltd,Low Stock,20/12/2022
+1611, gadget y ,ELECTRONICS,Warehouse 2,Aisle 2,50,19.99,Becker-Blair,Out of Stock,05/03/2023
+1288, widget b ,FURNITURE,Warehouse 2,Aisle 5,,29.99,Bray Inc,Low Stock,15/01/2023
+1253, gadget y ,ELECTRONICS,Warehouse 2,Aisle 1,100,19.99,"Lopez, Duncan and Montgomery",In Stock,15/01/2023
+1733, widget a ,CLOTHING,Warehouse 3,Aisle 5,50,9.99,"Williams, Barnett and Miller",Low Stock,05/03/2023
+1356, widget b ,ELECTRONICS,Warehouse 3,Aisle 4,two hundred,9.99,Manning-Jennings,In Stock,25/04/2023
+1022, gadget y ,FURNITURE,Warehouse 3,Aisle 5,,49.99,"Mcclure, Williams and Burgess",Out of Stock,15/01/2023
+1761, gadget x ,CLOTHING,Warehouse 3,Aisle 3,50,,Lowe-Harrison,Out of Stock,15/01/2023
+1521, gadget z ,ELECTRONICS,Warehouse 1,Aisle 3,100,29.99,Conway Group,Low Stock,05/03/2023
+1757, widget b ,TOYS,Warehouse 1,Aisle 5,300,29.99,"Larson, Merritt and Rodriguez",Low Stock,15/01/2023
+1836, gadget z ,CLOTHING,Warehouse 3,Aisle 3,150,,Davis-Medina,In Stock,25/04/2023
+1099, widget b ,CLOTHING,Warehouse 1,Aisle 4,150,9.99,"Clark, Rollins and Torres",In Stock,25/04/2023
+1801, gadget x ,TOYS,Warehouse 1,Aisle 2,100,9.99,"Gomez, Collins and Wright",Low Stock,25/04/2023
+1179, gadget z ,TOYS,Warehouse 2,Aisle 3,100,19.99,Graham-Guzman,Low Stock,20/12/2022
+1222, widget c ,CLOTHING,Warehouse 2,Aisle 3,150,49.99,"Patterson, Stanton and Nunez",Out of Stock,25/04/2023
+1905, widget a ,TOYS,Warehouse 2,Aisle 5,300,49.99,Duncan and Sons,Out of Stock,25/04/2023
+1761, widget c ,FURNITURE,Warehouse 2,Aisle 4,50,49.99,"Allen, Berry and Rice",Out of Stock,20/12/2022
+1658, gadget y ,FURNITURE,Warehouse 1,Aisle 2,150,19.99,Carter-Brown,Low Stock,
+1441, gadget x ,FURNITURE,Warehouse 3,Aisle 5,100,49.99,Flowers Inc,Low Stock,15/01/2023
+1607, widget c ,CLOTHING,Warehouse 1,Aisle 5,,,Forbes-Miller,Low Stock,25/04/2023
+1768, widget b ,TOYS,Warehouse 1,Aisle 4,two hundred,19.99,Weaver Inc,Out of Stock,15/01/2023
+1324, gadget y ,TOYS,Warehouse 1,Aisle 2,300,,Ford LLC,Low Stock,05/03/2023
+1515, gadget y ,ELECTRONICS,Warehouse 2,Aisle 4,300,19.99,Mcgrath Inc,In Stock,15/01/2023
+1015, widget c ,ELECTRONICS,Warehouse 2,Aisle 2,,49.99,Roberts Ltd,Low Stock,20/12/2022
+1791, widget c ,TOYS,Warehouse 2,Aisle 4,,,Lyons PLC,Low Stock,15/01/2023
+1335, gadget x ,TOYS,Warehouse 3,Aisle 5,100,,"White, Davis and Daniels",Low Stock,15/01/2023
+1758, widget a ,TOYS,Warehouse 1,Aisle 5,150,,Williams-Hanna,Low Stock,15/01/2023
+1257, widget c ,CLOTHING,Warehouse 3,Aisle 1,50,19.99,Scott-Fields,Low Stock,
+1496, widget c ,TOYS,Warehouse 2,Aisle 3,300,29.99,"Lopez, Silva and Beard",In Stock,
+1987, gadget z ,ELECTRONICS,Warehouse 3,Aisle 4,300,49.99,Brown-Stephens,In Stock,05/03/2023
+1895, widget b ,CLOTHING,Warehouse 1,Aisle 1,,,Reeves-Yates,Low Stock,20/12/2022
+1159, gadget z ,TOYS,Warehouse 1,Aisle 3,150,29.99,Brown-Wilcox,Out of Stock,15/01/2023
+1474, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,300,49.99,Owens-Perkins,Low Stock,15/01/2023
+1851, gadget y ,CLOTHING,Warehouse 2,Aisle 2,50,49.99,"Stevens, Gonzales and Tucker",Low Stock,15/01/2023
+1663, widget a ,TOYS,Warehouse 3,Aisle 3,-99,,Schmidt-Blackwell,Low Stock,15/01/2023
+1907, widget b ,TOYS,Warehouse 2,Aisle 5,50,,"Sutton, Mccoy and Scott",Out of Stock,
+1689, gadget x ,TOYS,Warehouse 2,Aisle 1,150,19.99,"Lam, Allen and Thomas",Out of Stock,05/03/2023
+1674, gadget x ,CLOTHING,Warehouse 1,Aisle 3,300,29.99,Kirby-Clark,Out of Stock,25/04/2023
+1379, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,two hundred,29.99,Caldwell Inc,In Stock,20/12/2022
+1544, widget c ,ELECTRONICS,Warehouse 2,Aisle 5,300,,Palmer-Gonzalez,Out of Stock,15/01/2023
+1928, gadget x ,FURNITURE,Warehouse 1,Aisle 4,150,49.99,Hull and Sons,In Stock,05/03/2023
+1956, widget c ,TOYS,Warehouse 1,Aisle 2,300,,Cole Ltd,In Stock,25/04/2023
+1690, widget a ,FURNITURE,Warehouse 3,Aisle 5,300,49.99,"Davis, Wright and Wright",Out of Stock,05/03/2023
+1426, gadget z ,FURNITURE,Warehouse 2,Aisle 2,100,49.99,"Callahan, Atkinson and Marquez",Out of Stock,
+1612, widget c ,ELECTRONICS,Warehouse 1,Aisle 4,300,,Schroeder Inc,Out of Stock,25/04/2023
+1267, gadget y ,CLOTHING,Warehouse 3,Aisle 3,300,9.99,Stevenson Group,In Stock,05/03/2023
+1834, widget c ,CLOTHING,Warehouse 3,Aisle 2,50,29.99,Holmes and Sons,Low Stock,
+1576, widget b ,ELECTRONICS,Warehouse 2,Aisle 1,two hundred,49.99,Ramos Ltd,Out of Stock,05/03/2023
+1416, widget a ,CLOTHING,Warehouse 2,Aisle 1,50,49.99,"Williams, Anderson and Jones",Out of Stock,05/03/2023
+1167, widget b ,FURNITURE,Warehouse 3,Aisle 5,50,9.99,Rodriguez-Jones,Out of Stock,25/04/2023
+1841, widget b ,TOYS,Warehouse 1,Aisle 4,,19.99,Hunter Ltd,In Stock,
+1042, gadget y ,ELECTRONICS,Warehouse 3,Aisle 5,100,9.99,Lopez-Thompson,In Stock,15/01/2023
+1555, widget a ,TOYS,Warehouse 2,Aisle 5,50,9.99,Byrd-Morales,Low Stock,20/12/2022
+1284, widget a ,CLOTHING,Warehouse 1,Aisle 5,150,49.99,Martin-Hughes,Out of Stock,25/04/2023
+1396, widget a ,TOYS,Warehouse 1,Aisle 1,150,29.99,Houston-Walters,In Stock,
+1011, widget a ,CLOTHING,Warehouse 3,Aisle 1,300,9.99,Schneider Inc,Low Stock,05/03/2023
+1606, widget a ,CLOTHING,Warehouse 2,Aisle 5,,19.99,Carpenter Group,Out of Stock,
+1301, gadget y ,FURNITURE,Warehouse 3,Aisle 1,100,,"Clark, Lee and Simpson",In Stock,20/12/2022
+1897, widget c ,CLOTHING,Warehouse 3,Aisle 4,100,9.99,Martin LLC,Out of Stock,20/12/2022
+1252, widget b ,FURNITURE,Warehouse 3,Aisle 5,300,9.99,Miller-Fuller,Out of Stock,15/01/2023
+1498, widget a ,FURNITURE,Warehouse 1,Aisle 1,150,19.99,"Ward, Key and Caldwell",In Stock,15/01/2023
+1753, widget c ,FURNITURE,Warehouse 1,Aisle 2,two hundred,29.99,Roth PLC,In Stock,20/12/2022
+1034, widget c ,ELECTRONICS,Warehouse 2,Aisle 5,,9.99,Guerrero PLC,In Stock,25/04/2023
+1726, widget b ,ELECTRONICS,Warehouse 2,Aisle 5,300,9.99,"Green, Boyd and Hawkins",Out of Stock,25/04/2023
+1848, gadget y ,CLOTHING,Warehouse 3,Aisle 4,,29.99,Martin Ltd,Out of Stock,05/03/2023
+1089, gadget x ,FURNITURE,Warehouse 3,Aisle 3,150,19.99,"Baldwin, Key and Best",Low Stock,15/01/2023
+1775, gadget x ,ELECTRONICS,Warehouse 3,Aisle 3,150,9.99,Martin-Herrera,Out of Stock,05/03/2023
+1604, widget c ,FURNITURE,Warehouse 2,Aisle 4,two hundred,29.99,Livingston LLC,In Stock,15/01/2023
+1921, gadget z ,TOYS,Warehouse 1,Aisle 4,two hundred,9.99,"Solomon, Thomas and Scott",Out of Stock,20/12/2022
+1969, gadget z ,TOYS,Warehouse 1,Aisle 4,100,,Mcdowell Inc,Low Stock,25/04/2023
+1601, widget b ,TOYS,Warehouse 3,Aisle 3,,49.99,James-Boyd,Low Stock,25/04/2023
+1417, gadget x ,CLOTHING,Warehouse 3,Aisle 4,,,Clark-Haas,In Stock,20/12/2022
+1114, widget c ,FURNITURE,Warehouse 3,Aisle 1,150,9.99,Carr-Randall,In Stock,05/03/2023
+1616, gadget y ,TOYS,Warehouse 3,Aisle 5,100,19.99,Hall-Ferguson,Low Stock,05/03/2023
+1902, gadget x ,ELECTRONICS,Warehouse 2,Aisle 5,300,49.99,Clark-Wallace,Low Stock,
+1195, widget c ,TOYS,Warehouse 1,Aisle 2,,,Moran Inc,Low Stock,15/01/2023
+1825, widget c ,TOYS,Warehouse 3,Aisle 2,100,29.99,Smith PLC,In Stock,05/03/2023
+1500, widget a ,TOYS,Warehouse 2,Aisle 5,100,19.99,Romero-Hill,Low Stock,20/12/2022
+1625, gadget y ,CLOTHING,Warehouse 3,Aisle 1,150,,"Mcdowell, Butler and Compton",Low Stock,05/03/2023
+1492, widget a ,ELECTRONICS,Warehouse 3,Aisle 3,100,29.99,"Kent, Bryant and Lopez",In Stock,25/04/2023
+1074, widget b ,FURNITURE,Warehouse 1,Aisle 3,two hundred,9.99,Howell LLC,Out of Stock,15/01/2023
+1412, widget a ,ELECTRONICS,Warehouse 3,Aisle 1,two hundred,29.99,Gray and Sons,Out of Stock,
+1375, widget a ,FURNITURE,Warehouse 1,Aisle 3,50,,"Huffman, Patel and Ryan",Low Stock,15/01/2023
+1419, gadget x ,CLOTHING,Warehouse 1,Aisle 4,150,,"Howard, Ellison and Molina",Out of Stock,25/04/2023
+1728, gadget z ,CLOTHING,Warehouse 1,Aisle 5,300,9.99,"Parker, Stanton and Stewart",Out of Stock,25/04/2023
+1276, widget c ,CLOTHING,Warehouse 2,Aisle 5,50,29.99,"Nguyen, Diaz and George",Out of Stock,25/04/2023
+1760, gadget y ,CLOTHING,Warehouse 2,Aisle 1,two hundred,29.99,Campbell-Roberts,Out of Stock,25/04/2023
+1675, widget a ,FURNITURE,Warehouse 1,Aisle 3,50,9.99,Powers Inc,Low Stock,20/12/2022
+1393, gadget y ,TOYS,Warehouse 3,Aisle 2,150,29.99,Lee and Sons,Out of Stock,
+1868, gadget z ,FURNITURE,Warehouse 1,Aisle 2,150,9.99,Williams Ltd,Out of Stock,25/04/2023
+1456, gadget z ,ELECTRONICS,Warehouse 3,Aisle 3,100,19.99,Thomas-Cordova,In Stock,25/04/2023
+1919, widget a ,CLOTHING,Warehouse 1,Aisle 2,,,Butler and Sons,Low Stock,05/03/2023
+1191, widget b ,CLOTHING,Warehouse 3,Aisle 1,100,19.99,Bond-Sanchez,In Stock,
+1738, widget a ,ELECTRONICS,Warehouse 2,Aisle 1,150,49.99,"Lee, Simmons and Hartman",In Stock,15/01/2023
+1688, gadget x ,FURNITURE,Warehouse 3,Aisle 3,two hundred,49.99,"Medina, Graves and Jackson",Low Stock,
+1098, widget c ,TOYS,Warehouse 1,Aisle 2,300,49.99,"Torres, Graham and Sullivan",Out of Stock,
+1547, widget b ,TOYS,Warehouse 2,Aisle 1,two hundred,9.99,Heath-Hernandez,In Stock,
+1977, widget a ,ELECTRONICS,Warehouse 3,Aisle 1,100,29.99,Gutierrez-Hendricks,Low Stock,25/04/2023
+1998, gadget y ,TOYS,Warehouse 3,Aisle 4,300,19.99,Wolfe LLC,Out of Stock,25/04/2023
+1095, widget b ,FURNITURE,Warehouse 3,Aisle 4,150,19.99,Richards-Mclean,Low Stock,20/12/2022
+1663, widget b ,FURNITURE,Warehouse 3,Aisle 1,two hundred,19.99,Shaw Ltd,In Stock,15/01/2023
+1662, widget a ,ELECTRONICS,Warehouse 3,Aisle 3,150,19.99,Sawyer Group,Out of Stock,05/03/2023
+1189, widget b ,FURNITURE,Warehouse 2,Aisle 5,300,49.99,Jones-Mendoza,Out of Stock,
+1735, gadget y ,CLOTHING,Warehouse 2,Aisle 5,300,19.99,Burgess Ltd,Low Stock,15/01/2023
+1036, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,two hundred,29.99,"Gray, Mclean and Fernandez",Out of Stock,15/01/2023
+1779, widget b ,FURNITURE,Warehouse 2,Aisle 1,-99,49.99,"Sanders, Crane and Johnson",In Stock,20/12/2022
+1368, gadget z ,ELECTRONICS,Warehouse 1,Aisle 1,50,19.99,Kane Group,In Stock,05/03/2023
+1694, gadget y ,TOYS,Warehouse 2,Aisle 3,150,9.99,"Robbins, Phelps and Foley",In Stock,
+1524, widget a ,FURNITURE,Warehouse 3,Aisle 4,300,,"Meadows, Jackson and Sloan",Low Stock,05/03/2023
+1278, widget c ,CLOTHING,Warehouse 3,Aisle 1,150,,Perry PLC,Out of Stock,20/12/2022
+1216, widget b ,FURNITURE,Warehouse 2,Aisle 1,100,,"Carter, Murphy and Hughes",Out of Stock,25/04/2023
+1866, widget c ,ELECTRONICS,Warehouse 3,Aisle 2,50,49.99,Woods-Taylor,Out of Stock,15/01/2023
+1872, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,,19.99,Smith Inc,In Stock,
+1797, widget b ,FURNITURE,Warehouse 3,Aisle 1,100,49.99,Marks-Oneal,Out of Stock,25/04/2023
+1272, gadget z ,CLOTHING,Warehouse 1,Aisle 2,,29.99,Huff and Sons,In Stock,20/12/2022
+1880, gadget x ,CLOTHING,Warehouse 1,Aisle 5,two hundred,9.99,Wilson and Sons,Out of Stock,05/03/2023
+1061, widget c ,CLOTHING,Warehouse 2,Aisle 1,,9.99,"Greene, Boone and Bell",In Stock,15/01/2023
+1595, widget b ,ELECTRONICS,Warehouse 2,Aisle 1,150,,"Perez, Butler and Snyder",Out of Stock,
+1879, widget c ,FURNITURE,Warehouse 2,Aisle 2,,,Medina Group,Low Stock,25/04/2023
+1728, widget b ,TOYS,Warehouse 3,Aisle 3,300,,"Reed, Dunn and Russell",Low Stock,25/04/2023
+1341, widget a ,ELECTRONICS,Warehouse 2,Aisle 1,100,19.99,Callahan-Fernandez,In Stock,15/01/2023
+1396, gadget z ,CLOTHING,Warehouse 1,Aisle 5,100,29.99,Calderon-White,In Stock,05/03/2023
+1698, widget c ,FURNITURE,Warehouse 3,Aisle 1,,29.99,"Munoz, Rose and Davis",Out of Stock,20/12/2022
+1018, gadget x ,CLOTHING,Warehouse 2,Aisle 5,100,29.99,Higgins-Love,Out of Stock,05/03/2023
+1176, gadget x ,TOYS,Warehouse 3,Aisle 4,300,29.99,Petersen-Smith,Low Stock,05/03/2023
+1611, gadget y ,CLOTHING,Warehouse 3,Aisle 4,100,,Cohen and Sons,Out of Stock,05/03/2023
+1395, widget b ,CLOTHING,Warehouse 2,Aisle 5,,9.99,"Moss, Turner and Brown",In Stock,15/01/2023
+1444, widget c ,TOYS,Warehouse 3,Aisle 3,50,,Brown and Sons,In Stock,15/01/2023
+1232, gadget y ,FURNITURE,Warehouse 1,Aisle 1,50,29.99,Blackburn-Allen,In Stock,20/12/2022
+1914, widget c ,ELECTRONICS,Warehouse 1,Aisle 1,two hundred,,Donovan Inc,In Stock,05/03/2023
+1075, widget b ,FURNITURE,Warehouse 3,Aisle 4,100,29.99,Walker Group,In Stock,15/01/2023
+1264, gadget x ,TOYS,Warehouse 2,Aisle 5,,49.99,Stephenson-Stephens,Low Stock,20/12/2022
+1454, widget a ,CLOTHING,Warehouse 3,Aisle 1,100,9.99,Arellano and Sons,Low Stock,20/12/2022
+1795, gadget x ,FURNITURE,Warehouse 1,Aisle 1,150,49.99,Rogers Group,In Stock,05/03/2023
+1717, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,300,19.99,Murphy Inc,Out of Stock,
+1734, gadget z ,TOYS,Warehouse 3,Aisle 2,100,,Newman-Mccall,In Stock,05/03/2023
+1383, widget a ,FURNITURE,Warehouse 1,Aisle 4,100,19.99,"Weaver, Summers and Patel",Low Stock,
+1563, gadget y ,ELECTRONICS,Warehouse 3,Aisle 4,50,,Martin-Mcgee,In Stock,20/12/2022
+1850, widget b ,TOYS,Warehouse 3,Aisle 2,300,49.99,Meyers-Douglas,Low Stock,15/01/2023
+1505, widget a ,ELECTRONICS,Warehouse 2,Aisle 1,,29.99,"Johnson, Davis and Wyatt",Low Stock,25/04/2023
+1366, gadget y ,TOYS,Warehouse 2,Aisle 3,100,29.99,Mejia LLC,In Stock,20/12/2022
+1143, widget b ,CLOTHING,Warehouse 1,Aisle 3,50,,Petersen-Chase,In Stock,15/01/2023
+1884, gadget x ,FURNITURE,Warehouse 1,Aisle 4,two hundred,29.99,Nelson Group,Out of Stock,20/12/2022
+1068, gadget z ,ELECTRONICS,Warehouse 1,Aisle 3,300,49.99,"Ward, Fernandez and Sandoval",Low Stock,05/03/2023
+1098, widget b ,TOYS,Warehouse 2,Aisle 2,50,29.99,Garza LLC,Out of Stock,
+1395, widget c ,ELECTRONICS,Warehouse 1,Aisle 1,50,49.99,"Ramsey, Perry and Mcdaniel",In Stock,20/12/2022
+1024, widget b ,ELECTRONICS,Warehouse 1,Aisle 2,50,19.99,"Mercado, Carlson and Miller",Low Stock,15/01/2023
+1947, widget b ,FURNITURE,Warehouse 1,Aisle 5,100,49.99,"Lucas, Baird and Brady",Out of Stock,05/03/2023
+1890, gadget z ,CLOTHING,Warehouse 2,Aisle 4,100,9.99,Whitney and Sons,Out of Stock,25/04/2023
+1468, widget c ,ELECTRONICS,Warehouse 3,Aisle 3,two hundred,9.99,Ross PLC,Out of Stock,05/03/2023
+1483, gadget y ,TOYS,Warehouse 1,Aisle 5,150,9.99,"May, Peck and Steele",In Stock,
+1564, gadget y ,TOYS,Warehouse 3,Aisle 3,150,,"Holt, Young and Silva",In Stock,05/03/2023
+1150, widget b ,CLOTHING,Warehouse 1,Aisle 1,-99,,"Rollins, Perez and Brown",In Stock,25/04/2023
+1143, widget c ,TOYS,Warehouse 3,Aisle 1,300,,"Crawford, Ramos and Wolf",Low Stock,15/01/2023
+1568, widget c ,CLOTHING,Warehouse 2,Aisle 1,300,49.99,"Gonzalez, Schneider and Griffin",In Stock,20/12/2022
+1038, gadget z ,TOYS,Warehouse 2,Aisle 3,two hundred,,"Rowland, Johnston and Levine",Low Stock,
+1108, gadget x ,FURNITURE,Warehouse 1,Aisle 5,300,19.99,"Graham, Martinez and Andrews",Out of Stock,25/04/2023
+1692, gadget y ,ELECTRONICS,Warehouse 3,Aisle 1,150,9.99,"Sanchez, Johnson and Snyder",Out of Stock,
+1041, gadget z ,FURNITURE,Warehouse 2,Aisle 5,150,49.99,Hernandez-Stewart,In Stock,05/03/2023
+1185, widget a ,ELECTRONICS,Warehouse 1,Aisle 3,50,9.99,"Henson, Walter and Miranda",Out of Stock,
+1934, gadget y ,ELECTRONICS,Warehouse 1,Aisle 5,300,,Moody PLC,In Stock,25/04/2023
+1397, gadget z ,ELECTRONICS,Warehouse 2,Aisle 3,100,49.99,Wright LLC,Low Stock,20/12/2022
+1222, gadget y ,FURNITURE,Warehouse 2,Aisle 3,100,29.99,Thomas LLC,Out of Stock,20/12/2022
+1633, gadget x ,ELECTRONICS,Warehouse 1,Aisle 4,50,19.99,"Hernandez, Kent and Keller",In Stock,
+1132, widget a ,FURNITURE,Warehouse 3,Aisle 3,50,,"Carlson, Ramirez and Ryan",Out of Stock,15/01/2023
+1162, gadget x ,CLOTHING,Warehouse 3,Aisle 3,50,,Hansen-Estrada,Out of Stock,
+1214, widget a ,TOYS,Warehouse 3,Aisle 2,100,19.99,"Wilson, Wright and Davis",In Stock,05/03/2023
+1732, widget b ,TOYS,Warehouse 1,Aisle 1,150,19.99,Wheeler-Lee,Out of Stock,20/12/2022
+1234, gadget z ,ELECTRONICS,Warehouse 2,Aisle 4,50,29.99,Yang-Cooper,Out of Stock,20/12/2022
+1842, widget a ,FURNITURE,Warehouse 1,Aisle 4,two hundred,,Wilson Ltd,Out of Stock,20/12/2022
+1657, gadget x ,TOYS,Warehouse 2,Aisle 4,50,,Solis Ltd,Out of Stock,15/01/2023
+1750, gadget y ,FURNITURE,Warehouse 3,Aisle 2,,9.99,Clark-Prince,Low Stock,15/01/2023
+1587, widget a ,FURNITURE,Warehouse 3,Aisle 3,50,49.99,Jenkins LLC,Out of Stock,25/04/2023
+1008, gadget z ,ELECTRONICS,Warehouse 2,Aisle 1,100,49.99,Porter-Green,Out of Stock,
+1073, widget a ,TOYS,Warehouse 2,Aisle 5,300,9.99,Ruiz Inc,In Stock,
+1953, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,50,49.99,Campbell-Jefferson,Low Stock,05/03/2023
+1491, gadget y ,ELECTRONICS,Warehouse 3,Aisle 2,300,19.99,"Smith, Carey and Wang",In Stock,20/12/2022
+1912, gadget z ,TOYS,Warehouse 1,Aisle 3,,49.99,Conway-Nelson,In Stock,15/01/2023
+1252, gadget z ,TOYS,Warehouse 1,Aisle 3,two hundred,49.99,Perez-Jones,In Stock,05/03/2023
+1229, widget b ,CLOTHING,Warehouse 1,Aisle 2,300,9.99,Bowman-Ortiz,Low Stock,05/03/2023
+1518, gadget x ,CLOTHING,Warehouse 3,Aisle 4,150,29.99,Bullock-Baldwin,In Stock,15/01/2023
+1173, widget b ,FURNITURE,Warehouse 1,Aisle 4,50,49.99,Richards-Carr,In Stock,
+1652, gadget z ,TOYS,Warehouse 1,Aisle 1,,49.99,Kaiser-Hall,In Stock,20/12/2022
+1167, gadget y ,CLOTHING,Warehouse 1,Aisle 1,,29.99,"Tucker, Payne and Sanford",Out of Stock,
+1169, widget a ,FURNITURE,Warehouse 1,Aisle 4,300,9.99,"Hernandez, Meyers and Carson",In Stock,05/03/2023
+1392, widget a ,FURNITURE,Warehouse 1,Aisle 5,two hundred,29.99,Patterson-Herman,Low Stock,20/12/2022
+1945, gadget y ,FURNITURE,Warehouse 1,Aisle 3,100,9.99,Burgess Group,Low Stock,25/04/2023
+1794, gadget z ,CLOTHING,Warehouse 3,Aisle 5,50,19.99,Russell-Peterson,Out of Stock,05/03/2023
+1633, widget a ,TOYS,Warehouse 1,Aisle 3,,9.99,Flowers LLC,Low Stock,
+1193, widget a ,ELECTRONICS,Warehouse 2,Aisle 4,two hundred,19.99,Hart-Erickson,Low Stock,
+1516, widget a ,FURNITURE,Warehouse 1,Aisle 1,150,19.99,Wolf-Powers,Out of Stock,
+1028, gadget x ,CLOTHING,Warehouse 1,Aisle 1,,9.99,Davis-Ball,In Stock,15/01/2023
+1164, gadget x ,CLOTHING,Warehouse 3,Aisle 5,two hundred,,Wells-Graham,Out of Stock,05/03/2023
+1421, widget c ,ELECTRONICS,Warehouse 3,Aisle 1,100,9.99,Walker-Rivers,In Stock,20/12/2022
+1338, widget b ,ELECTRONICS,Warehouse 2,Aisle 4,100,49.99,Rodriguez LLC,In Stock,
+1647, gadget y ,CLOTHING,Warehouse 2,Aisle 5,,49.99,"Moon, Best and Duncan",Low Stock,
+1495, gadget y ,TOYS,Warehouse 3,Aisle 3,,,"Bishop, Gardner and Williams",Out of Stock,15/01/2023
+1364, gadget y ,ELECTRONICS,Warehouse 3,Aisle 1,300,19.99,"Thomas, Schneider and Edwards",Low Stock,20/12/2022
+1832, widget c ,CLOTHING,Warehouse 1,Aisle 2,50,,Raymond-Jones,Low Stock,05/03/2023
+1341, gadget x ,ELECTRONICS,Warehouse 3,Aisle 1,two hundred,49.99,Ware Group,In Stock,25/04/2023
+1499, gadget z ,TOYS,Warehouse 2,Aisle 3,,,Moore Inc,Low Stock,15/01/2023
+1656, gadget z ,FURNITURE,Warehouse 1,Aisle 5,50,9.99,Johns LLC,Out of Stock,05/03/2023
+1510, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,300,,"Conley, Adkins and Thompson",Low Stock,25/04/2023
+1326, gadget z ,TOYS,Warehouse 1,Aisle 2,50,19.99,Garcia-Brown,Low Stock,
+1216, gadget y ,CLOTHING,Warehouse 3,Aisle 4,,9.99,Johnson Inc,In Stock,
+1300, widget b ,ELECTRONICS,Warehouse 2,Aisle 1,100,29.99,"Morris, Douglas and Montgomery",Out of Stock,20/12/2022
+1131, widget a ,ELECTRONICS,Warehouse 1,Aisle 5,two hundred,49.99,"Archer, Bell and Harper",Low Stock,25/04/2023
+1803, gadget x ,CLOTHING,Warehouse 1,Aisle 4,two hundred,49.99,Reilly-Jackson,In Stock,
+1069, gadget x ,FURNITURE,Warehouse 3,Aisle 3,100,,Murphy-Perry,Low Stock,
+1251, widget c ,CLOTHING,Warehouse 3,Aisle 5,,9.99,"Lewis, Marshall and Chaney",Out of Stock,20/12/2022
+1414, gadget x ,ELECTRONICS,Warehouse 3,Aisle 4,two hundred,29.99,Gallegos-Norton,Low Stock,05/03/2023
+1786, gadget y ,CLOTHING,Warehouse 2,Aisle 5,,9.99,Clark-Houston,Low Stock,
+1444, gadget z ,TOYS,Warehouse 1,Aisle 2,300,49.99,Bowman-Gray,In Stock,15/01/2023
+1875, gadget y ,CLOTHING,Warehouse 3,Aisle 2,,9.99,Anderson-Ray,Low Stock,15/01/2023
+1181, widget c ,ELECTRONICS,Warehouse 2,Aisle 1,50,29.99,Cain-Lambert,In Stock,05/03/2023
+1166, gadget y ,CLOTHING,Warehouse 2,Aisle 1,100,,Clark Group,Out of Stock,25/04/2023
+1090, gadget z ,FURNITURE,Warehouse 2,Aisle 2,,19.99,"Myers, Powell and Mitchell",Low Stock,20/12/2022
+1713, widget b ,CLOTHING,Warehouse 3,Aisle 5,300,9.99,Cline Inc,Out of Stock,15/01/2023
+1857, widget c ,FURNITURE,Warehouse 3,Aisle 2,150,19.99,"Fitzgerald, Mcdaniel and Adkins",Out of Stock,15/01/2023
+1530, widget b ,TOYS,Warehouse 1,Aisle 1,100,49.99,Wright-Erickson,Low Stock,05/03/2023
+1038, widget a ,FURNITURE,Warehouse 1,Aisle 2,two hundred,,"Mckenzie, Petty and Shaw",In Stock,25/04/2023
+1125, widget b ,CLOTHING,Warehouse 3,Aisle 2,50,,"Eaton, Scott and Fuller",Out of Stock,25/04/2023
+1450, widget a ,ELECTRONICS,Warehouse 2,Aisle 5,two hundred,9.99,Roberts-Tran,Out of Stock,05/03/2023
+1172, widget a ,FURNITURE,Warehouse 2,Aisle 4,300,,"Ramirez, Hill and Perez",Low Stock,15/01/2023
+1652, widget b ,TOYS,Warehouse 2,Aisle 1,300,9.99,Figueroa Ltd,Low Stock,20/12/2022
+1753, widget c ,FURNITURE,Warehouse 1,Aisle 5,two hundred,9.99,"Smith, Hicks and Newman",Low Stock,15/01/2023
+1219, gadget z ,FURNITURE,Warehouse 2,Aisle 2,100,19.99,"Ward, Rice and Hendrix",Low Stock,25/04/2023
+1637, gadget y ,FURNITURE,Warehouse 1,Aisle 2,two hundred,,Watson-Johnson,Low Stock,15/01/2023
+1057, gadget y ,TOYS,Warehouse 1,Aisle 4,,9.99,"Clayton, Guerrero and Salazar",Low Stock,20/12/2022
+1659, gadget z ,CLOTHING,Warehouse 2,Aisle 1,two hundred,19.99,Strong and Sons,In Stock,
+1475, widget a ,FURNITURE,Warehouse 2,Aisle 1,50,29.99,Spence LLC,Out of Stock,15/01/2023
+1455, widget a ,FURNITURE,Warehouse 3,Aisle 3,50,19.99,Fox and Sons,In Stock,05/03/2023
+1828, widget c ,ELECTRONICS,Warehouse 3,Aisle 1,150,19.99,"Fisher, Thomas and Jones",In Stock,
+1894, gadget x ,TOYS,Warehouse 2,Aisle 4,-99,9.99,Frost-Rivera,Low Stock,05/03/2023
+1360, widget b ,FURNITURE,Warehouse 1,Aisle 3,two hundred,49.99,"Lawrence, Harvey and Avery",Out of Stock,05/03/2023
+1934, widget a ,TOYS,Warehouse 1,Aisle 3,50,49.99,Baldwin Group,In Stock,05/03/2023
+1000, gadget y ,FURNITURE,Warehouse 1,Aisle 2,100,49.99,"Aguilar, Keller and Romero",Low Stock,15/01/2023
+1386, widget c ,CLOTHING,Warehouse 1,Aisle 2,50,19.99,"Thomas, Willis and Navarro",Low Stock,25/04/2023
+1972, widget b ,CLOTHING,Warehouse 1,Aisle 1,,9.99,Knight LLC,Out of Stock,
+1347, widget c ,FURNITURE,Warehouse 3,Aisle 3,100,,"Cook, Jordan and Harris",In Stock,20/12/2022
+1189, widget b ,CLOTHING,Warehouse 2,Aisle 2,150,19.99,Brown Group,In Stock,25/04/2023
+1504, widget b ,FURNITURE,Warehouse 3,Aisle 4,,19.99,"Thornton, Garcia and Jones",In Stock,15/01/2023
+1190, gadget z ,CLOTHING,Warehouse 1,Aisle 2,two hundred,9.99,Young Group,Low Stock,05/03/2023
+1507, widget a ,ELECTRONICS,Warehouse 1,Aisle 2,two hundred,29.99,Jones and Sons,Out of Stock,20/12/2022
+1368, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,two hundred,19.99,Lawrence-Ochoa,Out of Stock,
+1408, widget c ,ELECTRONICS,Warehouse 1,Aisle 3,,29.99,"Bush, Romero and Burton",In Stock,25/04/2023
+1823, gadget z ,TOYS,Warehouse 2,Aisle 5,,29.99,Jones Inc,Low Stock,25/04/2023
+1928, gadget y ,TOYS,Warehouse 1,Aisle 4,,49.99,Parrish-Lee,In Stock,20/12/2022
+1933, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,100,9.99,Tate LLC,Out of Stock,15/01/2023
+1116, widget a ,TOYS,Warehouse 1,Aisle 1,300,29.99,Thomas-Weber,Low Stock,
+1133, widget a ,CLOTHING,Warehouse 2,Aisle 4,100,9.99,Jones Group,In Stock,20/12/2022
+1057, gadget x ,FURNITURE,Warehouse 3,Aisle 4,two hundred,49.99,Fritz Ltd,In Stock,05/03/2023
+1555, gadget z ,FURNITURE,Warehouse 1,Aisle 3,300,9.99,West-Martin,Low Stock,
+1684, gadget y ,FURNITURE,Warehouse 2,Aisle 4,50,19.99,Brown-Hammond,Out of Stock,25/04/2023
+1671, widget b ,ELECTRONICS,Warehouse 3,Aisle 3,two hundred,29.99,"Marquez, Johnson and Webb",Low Stock,20/12/2022
+1172, widget c ,TOYS,Warehouse 1,Aisle 2,150,9.99,Mora-Cooper,In Stock,25/04/2023
+1828, widget a ,CLOTHING,Warehouse 1,Aisle 5,100,,"Sanchez, Mcgrath and Davis",In Stock,25/04/2023
+1814, widget c ,CLOTHING,Warehouse 1,Aisle 2,,9.99,Arnold Group,In Stock,25/04/2023
+1148, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,100,29.99,Dougherty and Sons,In Stock,15/01/2023
+1079, gadget x ,CLOTHING,Warehouse 2,Aisle 3,,49.99,Yang-Gonzalez,Out of Stock,25/04/2023
+1885, gadget y ,CLOTHING,Warehouse 3,Aisle 2,300,49.99,Davis LLC,Out of Stock,05/03/2023
+1212, widget a ,CLOTHING,Warehouse 2,Aisle 1,150,29.99,"Ross, Perez and Martin",In Stock,05/03/2023
+1202, widget c ,CLOTHING,Warehouse 2,Aisle 1,300,19.99,"Perry, West and Powell",Out of Stock,
+1763, widget a ,TOYS,Warehouse 1,Aisle 1,150,19.99,"Drake, Lopez and Monroe",Out of Stock,25/04/2023
+1228, widget b ,CLOTHING,Warehouse 1,Aisle 3,100,49.99,Hawkins-Garcia,Out of Stock,25/04/2023
+1675, gadget x ,FURNITURE,Warehouse 1,Aisle 4,,49.99,"Hardin, Hall and Hunt",In Stock,20/12/2022
+1226, widget b ,ELECTRONICS,Warehouse 1,Aisle 3,300,29.99,"Moore, Jenkins and Cruz",Low Stock,15/01/2023
+1658, widget a ,TOYS,Warehouse 1,Aisle 4,150,19.99,Sanchez Inc,Low Stock,
+1531, widget a ,CLOTHING,Warehouse 1,Aisle 2,two hundred,49.99,Pennington-Fernandez,Low Stock,25/04/2023
+1440, gadget y ,TOYS,Warehouse 1,Aisle 5,two hundred,19.99,"Miller, Luna and Grant",In Stock,20/12/2022
+1401, widget c ,CLOTHING,Warehouse 3,Aisle 4,300,49.99,Nixon-Schaefer,Out of Stock,15/01/2023
+1046, widget c ,FURNITURE,Warehouse 3,Aisle 1,,9.99,Herring Ltd,Out of Stock,
+1232, widget b ,ELECTRONICS,Warehouse 3,Aisle 3,300,,Brown-Crawford,In Stock,
+1304, gadget x ,CLOTHING,Warehouse 3,Aisle 2,100,9.99,Mclean PLC,In Stock,25/04/2023
+1525, gadget z ,CLOTHING,Warehouse 1,Aisle 1,150,49.99,Delgado PLC,Low Stock,
+1142, widget c ,CLOTHING,Warehouse 3,Aisle 2,100,,Duncan and Sons,Low Stock,20/12/2022
+1414, gadget y ,CLOTHING,Warehouse 1,Aisle 5,two hundred,,Garner-Blankenship,In Stock,
+1512, widget b ,ELECTRONICS,Warehouse 3,Aisle 3,150,49.99,Donaldson Ltd,Low Stock,05/03/2023
+1372, widget b ,ELECTRONICS,Warehouse 2,Aisle 3,300,49.99,Benson-Jackson,Out of Stock,20/12/2022
+1565, gadget z ,FURNITURE,Warehouse 3,Aisle 5,100,19.99,Washington Ltd,In Stock,15/01/2023
+1885, gadget y ,ELECTRONICS,Warehouse 3,Aisle 3,50,49.99,"Hodges, Brooks and Perez",In Stock,15/01/2023
+1258, gadget x ,CLOTHING,Warehouse 1,Aisle 4,,29.99,Williams-Welch,Out of Stock,25/04/2023
+1655, gadget y ,FURNITURE,Warehouse 3,Aisle 2,,49.99,"Taylor, Savage and Pierce",Out of Stock,25/04/2023
+1470, gadget x ,FURNITURE,Warehouse 2,Aisle 1,50,29.99,Brown-Clark,Out of Stock,05/03/2023
+1952, gadget y ,FURNITURE,Warehouse 1,Aisle 5,two hundred,49.99,Robinson-Schroeder,Low Stock,15/01/2023
+1970, gadget y ,CLOTHING,Warehouse 1,Aisle 4,150,19.99,Meyer-King,In Stock,15/01/2023
+1011, widget a ,TOYS,Warehouse 3,Aisle 1,,29.99,Burns-Valdez,Low Stock,15/01/2023
+1329, widget b ,CLOTHING,Warehouse 1,Aisle 1,50,9.99,"Johnson, Thomas and Myers",Out of Stock,15/01/2023
+1735, gadget y ,ELECTRONICS,Warehouse 1,Aisle 5,300,29.99,"Perez, Nunez and Mathis",Low Stock,
+1783, gadget z ,ELECTRONICS,Warehouse 1,Aisle 4,50,19.99,Oliver and Sons,Out of Stock,20/12/2022
+1967, gadget y ,CLOTHING,Warehouse 1,Aisle 1,two hundred,29.99,Hickman-Anderson,Low Stock,20/12/2022
+1357, widget c ,CLOTHING,Warehouse 1,Aisle 1,two hundred,49.99,Hammond PLC,Low Stock,05/03/2023
+1971, widget b ,FURNITURE,Warehouse 1,Aisle 4,100,49.99,"Chase, Bell and Wilson",Out of Stock,
+1407, widget c ,CLOTHING,Warehouse 2,Aisle 3,,19.99,"Perez, Francis and Oneal",Low Stock,15/01/2023
+1667, widget b ,FURNITURE,Warehouse 3,Aisle 1,100,,Johnson-Long,In Stock,15/01/2023
+1372, widget c ,ELECTRONICS,Warehouse 2,Aisle 2,50,49.99,Hardy-Dennis,Low Stock,25/04/2023
+1007, gadget y ,FURNITURE,Warehouse 1,Aisle 4,150,9.99,Buchanan Group,Low Stock,25/04/2023
+1121, gadget y ,CLOTHING,Warehouse 1,Aisle 1,150,19.99,Barnes-Walker,In Stock,05/03/2023
+1347, widget a ,ELECTRONICS,Warehouse 3,Aisle 5,two hundred,29.99,Stephens PLC,Out of Stock,15/01/2023
+1675, gadget z ,TOYS,Warehouse 2,Aisle 2,150,29.99,"Johnson, Barker and Martinez",In Stock,05/03/2023
+1089, widget c ,FURNITURE,Warehouse 3,Aisle 1,150,9.99,"Pena, White and Brown",Low Stock,
+1647, gadget x ,ELECTRONICS,Warehouse 2,Aisle 2,150,49.99,Thompson-Webster,Out of Stock,20/12/2022
+1697, widget a ,FURNITURE,Warehouse 1,Aisle 2,50,19.99,Strong LLC,Low Stock,15/01/2023
+1315, widget c ,ELECTRONICS,Warehouse 3,Aisle 3,150,9.99,Hogan-Jackson,Low Stock,
+1177, widget c ,ELECTRONICS,Warehouse 3,Aisle 2,300,49.99,"Sanchez, Garcia and Rollins",In Stock,15/01/2023
+1539, widget a ,FURNITURE,Warehouse 1,Aisle 3,150,19.99,"Watson, Nichols and Ramos",In Stock,25/04/2023
+1731, gadget y ,TOYS,Warehouse 3,Aisle 4,150,29.99,Morris-Yoder,Out of Stock,05/03/2023
+1868, widget c ,ELECTRONICS,Warehouse 2,Aisle 3,100,19.99,"Lopez, Pierce and Hill",Out of Stock,25/04/2023
+1040, gadget y ,ELECTRONICS,Warehouse 2,Aisle 5,50,,Garrison-Black,Out of Stock,20/12/2022
+1739, widget a ,ELECTRONICS,Warehouse 2,Aisle 1,two hundred,19.99,Walters-George,Low Stock,25/04/2023
+1703, gadget y ,TOYS,Warehouse 2,Aisle 4,100,,"Richardson, Kirby and Chen",In Stock,15/01/2023
+1922, widget b ,TOYS,Warehouse 1,Aisle 4,,19.99,Yu and Sons,In Stock,25/04/2023
+1501, gadget x ,CLOTHING,Warehouse 3,Aisle 5,50,,Garcia PLC,In Stock,15/01/2023
+1958, widget c ,FURNITURE,Warehouse 2,Aisle 3,300,29.99,Bauer-Zhang,Out of Stock,20/12/2022
+1144, gadget z ,TOYS,Warehouse 1,Aisle 1,50,49.99,Rivera Inc,In Stock,25/04/2023
+1200, gadget x ,FURNITURE,Warehouse 3,Aisle 3,,,Orr Group,In Stock,05/03/2023
+1928, gadget y ,CLOTHING,Warehouse 3,Aisle 2,,,"Terry, Shaw and Thompson",In Stock,05/03/2023
+1723, widget c ,FURNITURE,Warehouse 1,Aisle 3,,29.99,Oconnell-Garcia,Out of Stock,05/03/2023
+1460, gadget y ,TOYS,Warehouse 1,Aisle 4,two hundred,,"Thompson, Payne and Fox",In Stock,25/04/2023
+1731, widget b ,FURNITURE,Warehouse 2,Aisle 1,150,9.99,"Griffin, Parks and Pittman",Out of Stock,25/04/2023
+1751, widget a ,TOYS,Warehouse 3,Aisle 3,50,29.99,Walters Group,In Stock,25/04/2023
+1924, widget c ,FURNITURE,Warehouse 3,Aisle 1,150,9.99,Warner and Sons,In Stock,15/01/2023
+1908, widget b ,TOYS,Warehouse 1,Aisle 1,150,29.99,"Brown, Waller and Lee",In Stock,20/12/2022
+1557, widget b ,TOYS,Warehouse 3,Aisle 2,300,,Gordon-Boyd,Out of Stock,05/03/2023
+1546, widget c ,FURNITURE,Warehouse 2,Aisle 2,,9.99,David Ltd,Out of Stock,15/01/2023
+1252, gadget y ,CLOTHING,Warehouse 3,Aisle 4,two hundred,,"Kemp, Moore and Smith",In Stock,05/03/2023
+1389, gadget z ,ELECTRONICS,Warehouse 1,Aisle 5,300,29.99,Walker-Thornton,Low Stock,15/01/2023
+1593, widget b ,CLOTHING,Warehouse 1,Aisle 1,100,,Graham-Rodriguez,Out of Stock,25/04/2023
+1882, gadget x ,FURNITURE,Warehouse 2,Aisle 5,two hundred,9.99,Humphrey-Edwards,Out of Stock,05/03/2023
+1255, widget b ,CLOTHING,Warehouse 2,Aisle 4,150,9.99,Robbins-Graves,In Stock,25/04/2023
+1708, gadget z ,TOYS,Warehouse 3,Aisle 1,two hundred,,"Barnett, Gilmore and Anderson",Low Stock,05/03/2023
+1814, gadget y ,ELECTRONICS,Warehouse 3,Aisle 1,,19.99,"Mcguire, Conley and Higgins",In Stock,
+1920, gadget y ,FURNITURE,Warehouse 1,Aisle 5,100,29.99,"Ferguson, Orozco and Watson",Out of Stock,15/01/2023
+1449, gadget x ,FURNITURE,Warehouse 2,Aisle 3,,29.99,Snow-Campbell,Out of Stock,
+1009, widget b ,FURNITURE,Warehouse 2,Aisle 2,100,,Hill Ltd,In Stock,15/01/2023
+1823, gadget y ,ELECTRONICS,Warehouse 2,Aisle 3,300,19.99,Wells-Barnes,In Stock,20/12/2022
+1797, gadget z ,TOYS,Warehouse 3,Aisle 5,150,9.99,"Benson, Oneill and Glass",Low Stock,05/03/2023
+1241, widget c ,FURNITURE,Warehouse 2,Aisle 2,100,49.99,Parker Inc,Low Stock,20/12/2022
+1250, widget a ,CLOTHING,Warehouse 1,Aisle 3,100,49.99,"Garcia, Rodriguez and Williams",Out of Stock,20/12/2022
+9624,synthetic represent,TOYS,Warehouse 5,Aisle 6,344,275.65,Shields Group,Out of Stock,04/01/2026
+5514,synthetic upon,TOYS,Warehouse 4,Aisle 6,404,257.33,"Gonzalez, Smith and Patel",In Stock,15/01/2026
+9886,synthetic door,CLOTHING,Warehouse 3,Aisle 10,218,163.02,"Kemp, Torres and Herrera",Out of Stock,19/01/2026
+9489,synthetic close,ELECTRONICS,Warehouse 1,Aisle 4,336,388.29,"Wilcox, Rogers and King",In Stock,21/01/2026
+5859,synthetic allow,CLOTHING,Warehouse 1,Aisle 8,381,468.09,Hayes LLC,In Stock,22/01/2026
+7799,synthetic authority,ELECTRONICS,Warehouse 3,Aisle 2,-99,467.25,"Coleman, Wagner and Williamson",In Stock,02/01/2026
+6686,synthetic investment,ELECTRONICS,Warehouse 5,Aisle 2,468,480.19,Garza-Fowler,In Stock,10/01/2026
+7335,synthetic debate,CLOTHING,Warehouse 3,Aisle 6,118,134.4,"West, Hughes and Velazquez",Out of Stock,25/01/2026
+7542,synthetic provide,ELECTRONICS,Warehouse 2,Aisle 6,43,57.08,Park-Gilmore,In Stock,01/01/2026
+8107,synthetic position,CLOTHING,Warehouse 1,Aisle 3,39,310.8,"Johnson, King and Walker",In Stock,06/01/2026
+9354,synthetic certainly,ELECTRONICS,Warehouse 5,Aisle 4,458,66.21,Mitchell and Sons,Out of Stock,22/01/2026
+6266,synthetic between,TOYS,Warehouse 5,Aisle 8,422,223.21,"Robbins, Smith and Martinez",Out of Stock,03/01/2026
+6242,synthetic building,CLOTHING,Warehouse 4,Aisle 9,335,430.6,Pace-Richmond,Out of Stock,02/01/2026
+5745,synthetic condition,TOYS,Warehouse 4,Aisle 10,438,493.76,Turner Inc,Out of Stock,20/01/2026
+8225,synthetic reflect,CLOTHING,Warehouse 5,Aisle 3,448,5.76,Archer PLC,In Stock,21/01/2026
+9878,synthetic offer,TOYS,Warehouse 5,Aisle 7,403,372.53,"Barnett, Small and Gordon",In Stock,24/01/2026
+7069,synthetic law,CLOTHING,Warehouse 2,Aisle 9,-99,414.35,Smith-Morales,Out of Stock,16/01/2026
+7178,synthetic hold,ELECTRONICS,Warehouse 3,Aisle 2,412,130.51,"Bond, Bell and Bernard",In Stock,04/01/2026
+5977,synthetic most,CLOTHING,Warehouse 5,Aisle 10,353,307.06,"Marshall, Stephens and Jones",In Stock,12/01/2026
+9800,synthetic keep,ELECTRONICS,Warehouse 1,Aisle 2,463,400.68,Cain-Taylor,In Stock,13/01/2026
+7190,synthetic coach,ELECTRONICS,Warehouse 3,Aisle 8,154,165.26,Rush-Mendoza,In Stock,08/01/2026
+6763,synthetic meeting,ELECTRONICS,Warehouse 2,Aisle 8,19,358.1,Brown-Fields,Out of Stock,24/01/2026
+6690,synthetic lawyer,ELECTRONICS,Warehouse 3,Aisle 10,242,451.72,Mccoy-Ward,Out of Stock,27/01/2026
+8340,synthetic light,CLOTHING,Warehouse 2,Aisle 3,238,459.29,"Spears, Barnes and Wilson",In Stock,09/01/2026
+7637,synthetic from,ELECTRONICS,Warehouse 2,Aisle 5,279,246.31,Richardson-Collins,In Stock,16/01/2026
+7563,synthetic big,TOYS,Warehouse 5,Aisle 10,452,291.58,Smith-Yates,Out of Stock,02/01/2026
+5796,synthetic market,TOYS,Warehouse 4,Aisle 2,12,142.89,Horne-Brown,Out of Stock,12/01/2026
+9012,synthetic whole,ELECTRONICS,Warehouse 3,Aisle 6,215,491.87,Miller-Allison,In Stock,23/01/2026
+8687,synthetic left,TOYS,Warehouse 5,Aisle 10,254,58.87,Taylor Group,Out of Stock,19/01/2026
+7412,synthetic hundred,TOYS,Warehouse 3,Aisle 6,92,181.9,Garrett-Graham,In Stock,26/01/2026
+6927,synthetic forward,TOYS,Warehouse 2,Aisle 5,371,483.51,"Miles, Williams and Oconnor",Out of Stock,02/01/2026
+8745,synthetic somebody,TOYS,Warehouse 4,Aisle 5,263,240.83,Esparza-Cruz,In Stock,16/01/2026
+7376,synthetic expect,CLOTHING,Warehouse 2,Aisle 9,120,271.31,Nicholson-Gregory,Out of Stock,02/01/2026
+6494,synthetic food,ELECTRONICS,Warehouse 3,Aisle 5,445,452.01,Morris Group,In Stock,04/01/2026
+6215,synthetic he,CLOTHING,Warehouse 4,Aisle 5,133,335.33,Foster-Kirk,In Stock,06/01/2026
+5199,synthetic whose,ELECTRONICS,Warehouse 3,Aisle 4,381,330.78,Mitchell-Harper,Out of Stock,11/01/2026
+8541,synthetic thus,CLOTHING,Warehouse 2,Aisle 3,245,431.4,Larson-Lee,Out of Stock,18/01/2026
+7479,synthetic amount,TOYS,Warehouse 3,Aisle 9,314,429.43,Torres-Gonzalez,In Stock,10/01/2026
+7754,synthetic such,ELECTRONICS,Warehouse 4,Aisle 5,441,327.9,Brady-Patel,Out of Stock,17/01/2026
+7732,synthetic who,CLOTHING,Warehouse 4,Aisle 3,308,44.1,Taylor-Osborn,In Stock,12/01/2026
+5081,synthetic kid,CLOTHING,Warehouse 3,Aisle 2,152,373.45,Miller Ltd,In Stock,14/01/2026
+6952,synthetic fund,TOYS,Warehouse 2,Aisle 7,167,110.46,Henderson-Griffin,In Stock,15/01/2026
+9492,synthetic support,TOYS,Warehouse 4,Aisle 1,252,406.03,Gonzales-Baker,In Stock,06/01/2026
+8987,synthetic section,ELECTRONICS,Warehouse 1,Aisle 1,-99,453.4,"Sullivan, Castillo and Jones",In Stock,26/01/2026
+6064,synthetic customer,ELECTRONICS,Warehouse 4,Aisle 1,318,396.08,Macias-Singh,In Stock,28/01/2026
+6898,synthetic benefit,ELECTRONICS,Warehouse 5,Aisle 5,313,259.38,Moore-Martin,In Stock,11/01/2026
+6589,synthetic indicate,CLOTHING,Warehouse 5,Aisle 8,358,243.0,Phillips LLC,In Stock,04/01/2026
+5580,synthetic military,ELECTRONICS,Warehouse 4,Aisle 7,465,275.05,Hawkins-Stein,In Stock,18/01/2026
+6986,synthetic debate,TOYS,Warehouse 5,Aisle 5,54,41.77,"Oliver, Perry and Garcia",In Stock,21/01/2026
+9533,synthetic buy,CLOTHING,Warehouse 5,Aisle 5,274,43.83,Barton-Wilson,In Stock,28/01/2026
+5415,synthetic already,ELECTRONICS,Warehouse 4,Aisle 4,449,397.09,Martin and Sons,In Stock,16/01/2026
+7354,synthetic girl,TOYS,Warehouse 5,Aisle 1,229,239.95,"Jordan, Brooks and Scott",In Stock,25/01/2026
+5948,synthetic yeah,TOYS,Warehouse 3,Aisle 3,285,48.49,"Vincent, Marshall and Lewis",Out of Stock,04/01/2026
+5015,synthetic peace,ELECTRONICS,Warehouse 4,Aisle 1,259,81.58,Bishop-Cruz,In Stock,25/01/2026
+9734,synthetic Republican,TOYS,Warehouse 4,Aisle 1,434,134.65,Neal LLC,Out of Stock,24/01/2026
+5452,synthetic fall,ELECTRONICS,Warehouse 2,Aisle 7,174,147.39,Mathews-Jackson,In Stock,20/01/2026
+6672,synthetic expect,ELECTRONICS,Warehouse 3,Aisle 5,173,199.61,Lee LLC,In Stock,21/01/2026
+7807,synthetic indeed,TOYS,Warehouse 4,Aisle 9,261,134.48,Barker Ltd,In Stock,25/01/2026
+9152,synthetic better,ELECTRONICS,Warehouse 1,Aisle 1,203,495.7,"Hampton, Clark and Moore",Out of Stock,22/01/2026
+7130,synthetic fire,TOYS,Warehouse 1,Aisle 10,441,393.06,Miller and Sons,Out of Stock,15/01/2026
+9807,synthetic push,TOYS,Warehouse 2,Aisle 8,16,307.67,Williams Ltd,In Stock,03/01/2026
+7020,synthetic recognize,CLOTHING,Warehouse 1,Aisle 6,406,217.22,Jenkins LLC,In Stock,26/01/2026
+8759,synthetic blood,TOYS,Warehouse 5,Aisle 2,193,409.69,Gray Ltd,Out of Stock,23/01/2026
+8151,synthetic about,ELECTRONICS,Warehouse 4,Aisle 1,85,37.76,Harrison-Brown,Out of Stock,07/01/2026
+7188,synthetic pressure,ELECTRONICS,Warehouse 2,Aisle 2,333,220.16,"Zimmerman, Martinez and Robinson",Out of Stock,25/01/2026
+8396,synthetic her,TOYS,Warehouse 3,Aisle 5,24,279.79,Bradford-Vazquez,In Stock,14/01/2026
+5433,synthetic card,ELECTRONICS,Warehouse 4,Aisle 7,143,142.22,"Valenzuela, West and Mitchell",In Stock,20/01/2026
+8417,synthetic walk,CLOTHING,Warehouse 2,Aisle 1,194,168.33,Velez-Zuniga,In Stock,08/01/2026
+6823,synthetic clearly,ELECTRONICS,Warehouse 1,Aisle 4,462,389.6,Rodriguez-Edwards,In Stock,24/01/2026
+5269,synthetic rich,ELECTRONICS,Warehouse 2,Aisle 10,18,344.47,Washington-Barr,In Stock,25/01/2026
+7725,synthetic serve,ELECTRONICS,Warehouse 4,Aisle 8,327,410.94,Taylor LLC,Out of Stock,26/01/2026
+5760,synthetic between,CLOTHING,Warehouse 5,Aisle 8,151,25.37,Mcdowell-Guerrero,Out of Stock,07/01/2026
+5754,synthetic manage,CLOTHING,Warehouse 5,Aisle 7,75,233.92,"Price, Farrell and Bennett",In Stock,19/01/2026
+8178,synthetic better,TOYS,Warehouse 5,Aisle 8,187,132.05,"Dean, Cameron and Watson",Out of Stock,17/01/2026
+6754,synthetic though,ELECTRONICS,Warehouse 3,Aisle 6,76,79.71,Phillips LLC,In Stock,21/01/2026
+6015,synthetic ability,CLOTHING,Warehouse 4,Aisle 5,282,188.9,"Boyd, Davis and Miller",In Stock,18/01/2026
+9444,synthetic bring,ELECTRONICS,Warehouse 2,Aisle 10,161,382.46,Lozano-Moore,In Stock,06/01/2026
+8203,synthetic reality,ELECTRONICS,Warehouse 4,Aisle 8,38,282.31,"Esparza, Mccoy and Johnson",In Stock,10/01/2026
+7208,synthetic assume,TOYS,Warehouse 5,Aisle 8,393,240.64,"Phillips, James and Ward",In Stock,03/01/2026
+5406,synthetic time,TOYS,Warehouse 3,Aisle 4,466,200.72,"Bennett, Welch and Shelton",In Stock,08/01/2026
+5534,synthetic imagine,TOYS,Warehouse 3,Aisle 8,174,317.87,Smith Inc,Out of Stock,26/01/2026
+8387,synthetic other,TOYS,Warehouse 2,Aisle 3,41,455.52,Williams-Hartman,Out of Stock,08/01/2026
+8519,synthetic billion,TOYS,Warehouse 2,Aisle 2,49,411.68,Mclean-Little,In Stock,06/01/2026
+8139,synthetic both,CLOTHING,Warehouse 2,Aisle 8,246,367.46,"Taylor, Carlson and Shelton",Out of Stock,01/01/2026
+6917,synthetic do,TOYS,Warehouse 1,Aisle 9,63,396.41,"Espinoza, Watson and Armstrong",Out of Stock,28/01/2026
+5532,synthetic enjoy,ELECTRONICS,Warehouse 4,Aisle 7,275,149.95,Gomez Inc,In Stock,10/01/2026
+9648,synthetic add,ELECTRONICS,Warehouse 1,Aisle 6,478,197.58,"Cooke, Morris and Mitchell",Out of Stock,24/01/2026
+9863,synthetic network,CLOTHING,Warehouse 2,Aisle 3,371,242.45,"Rodgers, Sims and Johnston",In Stock,20/01/2026
+8045,synthetic agency,CLOTHING,Warehouse 1,Aisle 3,104,381.79,"Parsons, Jones and Miller",In Stock,17/01/2026
+5747,synthetic possible,CLOTHING,Warehouse 2,Aisle 9,355,177.23,"Guerra, Rivera and Conway",Out of Stock,06/01/2026
+8267,synthetic draw,CLOTHING,Warehouse 2,Aisle 9,180,491.69,Johnson-Harris,Out of Stock,09/01/2026
+8366,synthetic expect,CLOTHING,Warehouse 4,Aisle 7,193,130.86,Rodriguez-Larson,In Stock,24/01/2026
+9845,synthetic stop,CLOTHING,Warehouse 5,Aisle 9,105,51.17,Brown-Walker,Out of Stock,20/01/2026
+5713,synthetic close,CLOTHING,Warehouse 5,Aisle 8,368,414.64,Riley-Gordon,Out of Stock,17/01/2026
+8156,synthetic above,TOYS,Warehouse 4,Aisle 1,289,242.35,Carter-Stone,Out of Stock,21/01/2026
+7397,synthetic occur,ELECTRONICS,Warehouse 2,Aisle 1,447,232.47,Byrd-Richardson,Out of Stock,06/01/2026
+6141,synthetic follow,TOYS,Warehouse 2,Aisle 7,72,458.39,"Cooper, Mcdonald and Lopez",Out of Stock,22/01/2026
+6588,synthetic common,CLOTHING,Warehouse 1,Aisle 5,400,366.0,Gilbert-Barr,In Stock,16/01/2026
+5983,synthetic form,CLOTHING,Warehouse 1,Aisle 7,462,287.92,Johnson-Nelson,In Stock,23/01/2026
+5255,synthetic hundred,ELECTRONICS,Warehouse 5,Aisle 7,42,255.95,Baker-Johnson,Out of Stock,13/01/2026
+7836,synthetic anyone,ELECTRONICS,Warehouse 1,Aisle 2,302,105.88,Rodgers LLC,Out of Stock,10/01/2026
+6009,synthetic mission,CLOTHING,Warehouse 4,Aisle 8,277,447.61,"Santos, Lara and Knox",In Stock,07/01/2026
+5063,synthetic fill,TOYS,Warehouse 3,Aisle 8,160,78.31,Bennett-Caldwell,Out of Stock,12/01/2026
+9641,synthetic believe,TOYS,Warehouse 3,Aisle 1,209,175.88,Rivera and Sons,Out of Stock,22/01/2026
+6626,synthetic parent,CLOTHING,Warehouse 3,Aisle 4,160,54.72,Ray Group,In Stock,04/01/2026
+8201,synthetic along,CLOTHING,Warehouse 3,Aisle 4,363,89.7,"Brewer, Carpenter and Brown",Out of Stock,07/01/2026
+8920,synthetic fly,ELECTRONICS,Warehouse 2,Aisle 10,17,292.24,Brown-Patterson,In Stock,12/01/2026
+9920,synthetic describe,CLOTHING,Warehouse 4,Aisle 5,119,41.33,Evans-Garcia,In Stock,12/01/2026
+7661,synthetic inside,TOYS,Warehouse 3,Aisle 5,154,19.2,Whitaker-Gutierrez,In Stock,18/01/2026
+6838,synthetic fly,ELECTRONICS,Warehouse 1,Aisle 10,395,256.59,"Morrison, Saunders and Hutchinson",Out of Stock,20/01/2026
+8307,synthetic knowledge,CLOTHING,Warehouse 4,Aisle 2,182,476.98,"Watson, Hawkins and Beck",In Stock,17/01/2026
+7257,synthetic life,ELECTRONICS,Warehouse 1,Aisle 3,79,423.38,"Davis, Turner and Padilla",Out of Stock,07/01/2026
+6298,synthetic during,TOYS,Warehouse 5,Aisle 4,66,400.53,Duncan Ltd,In Stock,19/01/2026
+5385,synthetic whatever,CLOTHING,Warehouse 2,Aisle 10,181,186.6,Riggs-Martinez,In Stock,20/01/2026
+7909,synthetic dark,CLOTHING,Warehouse 4,Aisle 9,331,122.56,"Blair, Moore and Gonzalez",Out of Stock,19/01/2026
+8062,synthetic determine,ELECTRONICS,Warehouse 4,Aisle 4,428,123.35,Martin-Mclaughlin,In Stock,08/01/2026
+9013,synthetic food,TOYS,Warehouse 1,Aisle 8,388,168.7,Blackwell Inc,In Stock,01/01/2026
+5842,synthetic by,ELECTRONICS,Warehouse 3,Aisle 8,377,192.06,"Nichols, Bonilla and Hill",In Stock,22/01/2026
+8658,synthetic commercial,CLOTHING,Warehouse 4,Aisle 3,365,246.0,Camacho LLC,Out of Stock,17/01/2026
+9576,synthetic research,ELECTRONICS,Warehouse 4,Aisle 1,224,83.87,"Martin, Daniels and Mitchell",Out of Stock,20/01/2026
+5662,synthetic family,ELECTRONICS,Warehouse 5,Aisle 2,90,441.59,George Ltd,Out of Stock,16/01/2026
+5759,synthetic live,TOYS,Warehouse 4,Aisle 2,140,343.18,Hendrix LLC,In Stock,22/01/2026
+5806,synthetic yourself,CLOTHING,Warehouse 3,Aisle 9,221,311.91,Castro-Ellis,In Stock,21/01/2026
+9356,synthetic box,TOYS,Warehouse 1,Aisle 6,425,41.47,"Bush, Dawson and Williamson",Out of Stock,14/01/2026
+5638,synthetic before,ELECTRONICS,Warehouse 1,Aisle 6,209,99.08,"Guerra, Moore and Browning",Out of Stock,18/01/2026
+7240,synthetic technology,CLOTHING,Warehouse 1,Aisle 2,400,300.88,Santiago Ltd,Out of Stock,01/01/2026
+9625,synthetic around,ELECTRONICS,Warehouse 3,Aisle 2,355,302.28,"Flores, Lee and Jacobs",Out of Stock,04/01/2026
+7049,synthetic street,TOYS,Warehouse 4,Aisle 7,438,166.88,Fuller Inc,In Stock,16/01/2026
+5582,synthetic inside,CLOTHING,Warehouse 1,Aisle 8,319,33.06,Smith Ltd,Out of Stock,07/01/2026
+8668,synthetic important,CLOTHING,Warehouse 3,Aisle 1,462,205.32,Smith and Sons,In Stock,14/01/2026
+7241,synthetic politics,ELECTRONICS,Warehouse 1,Aisle 1,218,160.23,Mitchell-Lee,Out of Stock,12/01/2026
+8796,synthetic to,ELECTRONICS,Warehouse 1,Aisle 4,356,357.98,Dunn Ltd,Out of Stock,08/01/2026
+6832,synthetic system,CLOTHING,Warehouse 4,Aisle 3,151,439.04,Weeks Ltd,Out of Stock,15/01/2026
+8202,synthetic each,TOYS,Warehouse 4,Aisle 9,382,209.52,Stout-Perez,Out of Stock,18/01/2026
+8769,synthetic hotel,CLOTHING,Warehouse 4,Aisle 10,128,212.07,Ross Ltd,In Stock,25/01/2026
+9367,synthetic drive,TOYS,Warehouse 1,Aisle 5,320,291.02,Chandler-Webb,Out of Stock,08/01/2026
+9571,synthetic fast,ELECTRONICS,Warehouse 5,Aisle 5,423,104.49,Walsh Group,In Stock,27/01/2026
+5437,synthetic doctor,CLOTHING,Warehouse 3,Aisle 6,120,330.98,"Gordon, Rojas and Mcguire",Out of Stock,26/01/2026
+9758,synthetic executive,TOYS,Warehouse 4,Aisle 5,182,359.8,Smith and Sons,Out of Stock,08/01/2026
+9983,synthetic crime,TOYS,Warehouse 2,Aisle 7,81,324.45,Ruiz Inc,In Stock,03/01/2026
+9630,synthetic focus,ELECTRONICS,Warehouse 4,Aisle 6,375,241.09,Martin-Johnson,In Stock,15/01/2026
+5969,synthetic tell,ELECTRONICS,Warehouse 3,Aisle 9,176,230.34,"Patterson, Paul and Phillips",Out of Stock,22/01/2026
+8392,synthetic condition,CLOTHING,Warehouse 4,Aisle 9,176,26.7,Lewis Group,Out of Stock,05/01/2026
+8450,synthetic consider,ELECTRONICS,Warehouse 2,Aisle 3,492,262.87,Kim Group,Out of Stock,13/01/2026
+9142,synthetic only,TOYS,Warehouse 4,Aisle 9,183,136.48,"Thomas, Hernandez and Johnson",Out of Stock,22/01/2026
+7278,synthetic degree,TOYS,Warehouse 3,Aisle 7,303,101.35,Gray Ltd,In Stock,22/01/2026
+5073,synthetic practice,CLOTHING,Warehouse 3,Aisle 7,117,84.52,"Gordon, Mcdonald and Hodges",In Stock,22/01/2026
+7720,synthetic first,ELECTRONICS,Warehouse 3,Aisle 5,125,427.34,Mendoza-Henderson,In Stock,12/01/2026
+9909,synthetic network,CLOTHING,Warehouse 3,Aisle 1,243,90.13,"Davis, Morgan and Stevens",Out of Stock,19/01/2026
+6520,synthetic always,ELECTRONICS,Warehouse 4,Aisle 2,268,30.03,Lane-Hughes,In Stock,15/01/2026
