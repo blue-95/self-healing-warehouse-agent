@@ -1,5 +1,6 @@
-from typing import TypedDict, Dict
+from typing import TypedDict, Dict, Any
 
 class WarehouseState(TypedDict):
     issues: Dict[str, int]
-    run_id: str
+    fix_plan: Dict[str, Any]
+    run_id: str    
