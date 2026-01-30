@@ -42,6 +42,13 @@ This project builds an autonomous AI agent that:
 	4.	Sentinel re-audits
 	5.	Loop continues until clean  
 
+	
+## Execution & Results
+
+<img width="1647" height="1000" alt="Screenshot 2026-01-29 at 9 58 23 PM" src="https://github.com/user-attachments/assets/a9ed3b3d-8dbb-48f8-a4d9-67a54f3b509b" />
+
+###### The image below demonstrates a successful end-to-end execution of the Agentic Pipeline. The Sentinel Node queries Snowflake in real-time, identifies 10 records with data quality issues (negative quantities), and updates the global Graph State."
+
 
 Future Improvements
 
