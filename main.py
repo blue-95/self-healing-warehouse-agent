@@ -1,42 +1,33 @@
 import uuid
 from langgraph.graph import StateGraph, END
 
-from agents.state import AgentState
+from agents.state import WarehouseState
 from agents.sentinel import sentinel_node
 from agents.strategist import strategist_node
 from agents.healer import healer_node
 
-def should_continue(state):
-    total_issues = sum(state["issues"].values())
-    if total_issues == 0:
-        print("No issues left. Ending workflow.")
-        return "end"
-    return "continue"
 
-builder = StateGraph(AgentState)
+graph = StateGraph(WarehouseState)
 
-builder.add_node("sentinel", sentinel_node)
-builder.add_node("strategist", strategist_node)
-builder.add_node("healer", healer_node)
+graph.add_node("sentinel", sentinel_node)
+graph.add_node("strategist", strategist_node)
+graph.add_node("healer", healer_node)
 
-builder.set_entry_point("sentinel")
+graph.set_entry_point("sentinel")
 
-builder.add_edge("strategist", "healer")
-builder.add_edge("healer", "sentinel")
+graph.add_edge("sentinel", "strategist")
+graph.add_edge("strategist", "healer")
+graph.add_edge("healer", END)
 
-builder.add_conditional_edges(
-    "sentinel",
-    should_continue,
-    {
-        "continue": "strategist",
-        "end": END
-    }
-)
+app = graph.compile()
 
-graph = builder.compile()
 
 if __name__ == "__main__":
-    graph.invoke({
+    result = app.invoke({
         "issues": {},
+        "fix_plan": {},
         "run_id": str(uuid.uuid4())
     })
+
+    print("\n✅ Final Result")
+    print(result)
