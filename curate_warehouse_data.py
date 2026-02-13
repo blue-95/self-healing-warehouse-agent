@@ -45,5 +45,5 @@ final_df = curate_and_contaminate(df, num_synthetic_rows=150)
 output_file = "warehouse_FINAL_WITH_ERRORS.csv"
 final_df.to_csv(output_file, index=False)
 
-print(f"✅ SUCCESS! Total rows: {len(final_df)}") # Should print 1150
+print(f"✅ SUCCESS! Total rows: {len(final_df)}")
 print(f"✅ File saved as: {output_file}")
